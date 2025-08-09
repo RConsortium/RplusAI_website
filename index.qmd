@@ -1,0 +1,30 @@
+---
+title: "R+AI 2025"
+page-layout: article
+---
+
+Join us at R+AI 2025, our inaugural conference dedicated to the open-source 
+R community and every facet of artificial intelligence. 
+
+![](images/R+AI-main-image.png)
+
+### **Dates:** Nov 12–13, 2025
+### **Location:** 100% online
+### Program, speakers, and registration: Coming Soon 
+### **Call for Proposals:** [Open Now!](cfp.qmd)  
+
+Whether you're just getting started with machine learning, experimenting 
+with large language models in R, leveraging GenAI tools to accelerate your 
+code, part of an industry team deploying AI solutions in finance, 
+healthcare, or marketing, or a researcher pushing the boundaries of deep 
+learning or responsible AI—there's something here for you. 
+
+Experience inspiring keynotes and talks, hands-on workshops, lightning 
+talks, and panel discussions designed to educate, connect, and empower 
+R users at every level.
+
+
+- **Talks will be recorded**  
+- **Speakers participate in live Q&A**  
+- **Schedule is US Eastern Time Zone**
+

@@ -1,0 +1,20 @@
+---
+title: "About R+AI"
+---
+
+R+AI 2025 is an R Consortium event focused on artificial intelligence 
+with R. The program spans keynotes, talks, workshops, lightning talks, 
+and panels.
+
+## Goals
+- Showcase practical AI with R across industries.
+- Share advances in modeling, GenAI, and responsible AI.
+- Connect the community through hands-on learning.
+
+**Dates:** Nov 12–13, 2025  
+**Location:** 100% online  
+**Recordings:** Talks will be recorded  
+**Community:** Speakers participate in live Q&A  
+**Time Zone:** Schedule is US Eastern Time Zone  
+**Registration:** Coming Soon! Industry, Academia, and Student level ticketing 
+will all be available  

@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "R+AI 2025"
+  site-url: "https://rconsortium.github.io/RplusAI_website/"
+  navbar:
+    left:
+      - text: About
+        href: about.qmd
+      - text: Call for Proposals
+        href: cfp.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
