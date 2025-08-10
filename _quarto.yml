@@ -4,6 +4,7 @@ project:
 
 website:
   title: "R+AI 2025"
+  favicon: images/favicon.ico
   site-url: "https://rconsortium.github.io/RplusAI_website/"
   navbar:
     left:
