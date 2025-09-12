@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://rconsortium.github.io/RplusAI_website/speakers.html</loc>
+    <lastmod>2025-09-12T19:04:00.658Z</lastmod>
+  </url>
+  <url>
     <loc>https://rconsortium.github.io/RplusAI_website/program.html</loc>
-    <lastmod>2025-08-10T19:01:21.844Z</lastmod>
+    <lastmod>2025-09-12T19:04:00.658Z</lastmod>
   </url>
   <url>
     <loc>https://rconsortium.github.io/RplusAI_website/index.html</loc>
-    <lastmod>2025-08-10T19:01:21.844Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rconsortium.github.io/RplusAI_website/speakers.html</loc>
-    <lastmod>2025-08-10T19:01:21.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rconsortium.github.io/RplusAI_website/about.html</loc>
-    <lastmod>2025-08-10T19:01:21.841Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rconsortium.github.io/RplusAI_website/schedule.html</loc>
-    <lastmod>2025-08-10T19:01:21.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rconsortium.github.io/RplusAI_website/sponsors.html</loc>
-    <lastmod>2025-08-10T19:01:21.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rconsortium.github.io/RplusAI_website/venue.html</loc>
-    <lastmod>2025-08-10T19:01:21.845Z</lastmod>
+    <lastmod>2025-09-12T19:04:00.658Z</lastmod>
   </url>
   <url>
     <loc>https://rconsortium.github.io/RplusAI_website/registration.html</loc>
-    <lastmod>2025-08-10T19:01:21.844Z</lastmod>
+    <lastmod>2025-09-12T19:04:00.658Z</lastmod>
   </url>
   <url>
     <loc>https://rconsortium.github.io/RplusAI_website/cfp.html</loc>
-    <lastmod>2025-08-10T19:01:21.841Z</lastmod>
+    <lastmod>2025-09-12T19:04:00.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rconsortium.github.io/RplusAI_website/schedule.html</loc>
+    <lastmod>2025-09-12T19:04:00.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rconsortium.github.io/RplusAI_website/about.html</loc>
+    <lastmod>2025-09-12T19:04:00.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rconsortium.github.io/RplusAI_website/venue.html</loc>
+    <lastmod>2025-09-12T19:04:00.659Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rconsortium.github.io/RplusAI_website/sponsors.html</loc>
+    <lastmod>2025-09-12T19:04:00.658Z</lastmod>
   </url>
 </urlset>
