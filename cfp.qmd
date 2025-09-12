@@ -2,8 +2,7 @@
 title: "Call for Proposals"
 ---
 
-![](images/CFP_now_open.png)
-
+## The Call for Proposals deadline has passed. Thank you for your interest.
 Join us at R+AI 2025, our inaugural conference dedicated to the open-source 
 R community and every facet of artificial intelligence. Whether you’re 
 just getting started with machine learning, experimenting with large 
@@ -16,7 +15,6 @@ discussions designed to educate, connect, and empower R users at every level.
 
 ## Key dates
 - CFP closes: September 5, 2025  
-- [Submit your proposal here](https://docs.google.com/forms/d/e/1FAIpQLSeXpG0eYa3FiAth3AWbmHQeUKyy_tZU9vubzkgBvyEW5tpdKg/viewform)
 
 ## Technical Areas
 
@@ -27,6 +25,3 @@ discussions designed to educate, connect, and empower R users at every level.
 - Lightning talks (5–7 min)  
 - Workshops (2–3 hours)  
 - Panels (45–60 min)
-
-
-## [Submit your proposal here](https://docs.google.com/forms/d/e/1FAIpQLSeXpG0eYa3FiAth3AWbmHQeUKyy_tZU9vubzkgBvyEW5tpdKg/viewform)
