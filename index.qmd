@@ -10,8 +10,14 @@ R community and every facet of artificial intelligence.
 
 ### **Dates:** Nov 12–13, 2025
 ### **Location:** 100% online
-### Program, speakers, and registration: Coming Soon 
-### **Call for Proposals:** [Open Now!](cfp.qmd)  
+
+## **Keynote:** Joe Cheng, CTO, Posit
+
+Joe Cheng is the CTO of Posit, PBC. He's the original creator of the Shiny web framework and co-creator of ellmer.
+
+![](images/joe-cheng.jpg)
+
+## Program, speakers: Coming October 10, 2025 
 
 Whether you're just getting started with machine learning, experimenting 
 with large language models in R, leveraging GenAI tools to accelerate your 
@@ -27,4 +33,18 @@ R users at every level.
 - **Talks will be recorded**  
 - **Speakers participate in live Q&A**  
 - **Schedule is US Eastern Time Zone**
+
+## Registration Pricing
+
+The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars. 
+
+| Category              | Price |
+|-----------------------|:-------:|
+| Students              |  \$25   |
+| Academic / Non-profit |  \$50   |
+| Industry              |  \$70   |
+
+## Sponsorships
+
+If you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org
 
