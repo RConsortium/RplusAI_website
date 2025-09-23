@@ -27,4 +27,4 @@ The following table lists the registration fees for three categories of attendee
 |-----------------------|:-------:|
 | Students              |  \$25   |
 | Academic / Non-profit |  \$50   |
-| Industry              |  \$70   |  
+| Industry              |  \$75   |  
