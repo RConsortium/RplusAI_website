@@ -16,5 +16,15 @@ and panels.
 **Recordings:** Talks will be recorded  
 **Community:** Speakers participate in live Q&A  
 **Time Zone:** Schedule is US Eastern Time Zone  
-**Registration:** Coming Soon! Industry, Academia, and Student level ticketing 
-will all be available  
+Industry, Academia, and Student level ticketing 
+will all be available
+
+## Registration Pricing
+
+The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.
+
+| Category              | Price |
+|-----------------------|:-------:|
+| Students              |  \$25   |
+| Academic / Non-profit |  \$50   |
+| Industry              |  \$70   |  
