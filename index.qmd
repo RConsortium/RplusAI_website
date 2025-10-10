@@ -3,10 +3,11 @@ title: "R+AI 2025"
 page-layout: article
 ---
 
-Join us at R+AI 2025, our inaugural conference dedicated to the open-source 
-R community and every facet of artificial intelligence. 
+Join us at R+AI 2025, our inaugural conference dedicated to the open-source R community and every facet of artificial intelligence. 
 
 ![](images/R+AI-main-image.png)
+
+## [Register Now!](https://events.zoom.us/ev/AgmYhAOM3Er2W07scr6d21qVODVIsf6BXOKM1bhNeyHBvlDUN6tO~Am8h6-H7ji3ip2txjzbt0eJphX2w6m2OWQ14AHd447ERlDSifpzbv_1Wig)
 
 ### **Dates:** Nov 12–13, 2025
 ### **Location:** 100% online
@@ -19,16 +20,10 @@ Joe Cheng is the CTO of Posit, PBC. He's the original creator of the Shiny web f
 
 ## Program, speakers: Coming October 10, 2025 
 
-Whether you're just getting started with machine learning, experimenting 
-with large language models in R, leveraging GenAI tools to accelerate your 
-code, part of an industry team deploying AI solutions in finance, 
-healthcare, or marketing, or a researcher pushing the boundaries of deep 
+Whether you're just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep 
 learning or responsible AI—there's something here for you. 
 
-Experience inspiring keynotes and talks, hands-on workshops, lightning 
-talks, and panel discussions designed to educate, connect, and empower 
-R users at every level.
-
+Experience inspiring keynotes and talks, hands-on workshops, lightning talks, and panel discussions designed to educate, connect, and empower R users at every level.
 
 - **Talks will be recorded**  
 - **Speakers participate in live Q&A**  
@@ -42,9 +37,10 @@ The following table lists the registration fees for three categories of attendee
 |-----------------------|:-------:|
 | Students              |  \$25   |
 | Academic / Non-profit |  \$50   |
-| Industry              |  \$75   |
+| Industry              |  \$70   |
 
 ## Sponsorships
 
 If you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org
 
+## [Register Now!](https://events.zoom.us/ev/AgmYhAOM3Er2W07scr6d21qVODVIsf6BXOKM1bhNeyHBvlDUN6tO~Am8h6-H7ji3ip2txjzbt0eJphX2w6m2OWQ14AHd447ERlDSifpzbv_1Wig)
