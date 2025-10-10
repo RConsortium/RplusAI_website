@@ -7,60 +7,46 @@
     "text": "Speaker lineup: Coming Soon.\nIf you would like to recommend a speaker, contact: TBD."
   },
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "Program details: Coming Soon.\n\nTracks: TBD\nSessions: TBD\nPosters: TBD"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R+AI 2025",
-    "section": "",
-    "text": "Join us at R+AI 2025, our inaugural conference dedicated to the open-source R community and every facet of artificial intelligence."
-  },
-  {
-    "objectID": "index.html#keynote-joe-cheng-cto-posit",
-    "href": "index.html#keynote-joe-cheng-cto-posit",
-    "title": "R+AI 2025",
-    "section": "Keynote: Joe Cheng, CTO, Posit",
-    "text": "Keynote: Joe Cheng, CTO, Posit\nJoe Cheng is the CTO of Posit, PBC. He’s the original creator of the Shiny web framework and co-creator of ellmer."
-  },
-  {
-    "objectID": "index.html#program-speakers-coming-october-10-2025",
-    "href": "index.html#program-speakers-coming-october-10-2025",
-    "title": "R+AI 2025",
-    "section": "Program, speakers: Coming October 10, 2025",
-    "text": "Program, speakers: Coming October 10, 2025\nWhether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you.\nExperience inspiring keynotes and talks, hands-on workshops, lightning talks, and panel discussions designed to educate, connect, and empower R users at every level.\n\nTalks will be recorded\n\nSpeakers participate in live Q&A\n\nSchedule is US Eastern Time Zone"
-  },
-  {
-    "objectID": "index.html#registration-pricing",
-    "href": "index.html#registration-pricing",
-    "title": "R+AI 2025",
-    "section": "Registration Pricing",
-    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$75"
-  },
-  {
-    "objectID": "index.html#sponsorships",
-    "href": "index.html#sponsorships",
-    "title": "R+AI 2025",
-    "section": "Sponsorships",
-    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration information: Coming Soon.\n\nPricing tiers: TBD\nDiscounts: TBD\nRefund policy: TBD"
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
     "text": "Schedule: Coming Soon.\nDates: Nov 12–13, 2025 Location: 100% Online Talks will be recorded Speakers participate in live Q&A Time zone: US Eastern Time\n\nDay 1: TBD\nDay 2: TBD"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About R+AI",
+    "section": "",
+    "text": "R+AI 2025 is an R Consortium event focused on artificial intelligence with R. The program spans keynotes, talks, workshops, lightning talks, and panels."
+  },
+  {
+    "objectID": "about.html#register-now",
+    "href": "about.html#register-now",
+    "title": "About R+AI",
+    "section": "Register Now!",
+    "text": "Register Now!"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About R+AI",
+    "section": "Goals",
+    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, GenAI, and responsible AI.\nConnect the community through hands-on learning.\n\nDates: Nov 12–13, 2025\nLocation: 100% online\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nTime Zone: Schedule is US Eastern Time Zone\nIndustry, Academia, and Student level ticketing will all be available"
+  },
+  {
+    "objectID": "about.html#registration-pricing",
+    "href": "about.html#registration-pricing",
+    "title": "About R+AI",
+    "section": "Registration Pricing",
+    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
+  },
+  {
+    "objectID": "about.html#register-now-1",
+    "href": "about.html#register-now-1",
+    "title": "About R+AI",
+    "section": "Register Now!",
+    "text": "Register Now!"
   },
   {
     "objectID": "cfp.html",
@@ -112,25 +98,67 @@
     "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About R+AI",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R+AI 2025",
     "section": "",
-    "text": "R+AI 2025 is an R Consortium event focused on artificial intelligence with R. The program spans keynotes, talks, workshops, lightning talks, and panels."
+    "text": "Join us at R+AI 2025, our inaugural conference dedicated to the open-source R community and every facet of artificial intelligence."
   },
   {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About R+AI",
-    "section": "Goals",
-    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, GenAI, and responsible AI.\nConnect the community through hands-on learning.\n\nDates: Nov 12–13, 2025\nLocation: 100% online\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nTime Zone: Schedule is US Eastern Time Zone\nIndustry, Academia, and Student level ticketing will all be available"
+    "objectID": "index.html#register-now",
+    "href": "index.html#register-now",
+    "title": "R+AI 2025",
+    "section": "Register Now!",
+    "text": "Register Now!\n\nDates: Nov 12–13, 2025\n\n\nLocation: 100% online"
   },
   {
-    "objectID": "about.html#registration-pricing",
-    "href": "about.html#registration-pricing",
-    "title": "About R+AI",
+    "objectID": "index.html#keynote-joe-cheng-cto-posit",
+    "href": "index.html#keynote-joe-cheng-cto-posit",
+    "title": "R+AI 2025",
+    "section": "Keynote: Joe Cheng, CTO, Posit",
+    "text": "Keynote: Joe Cheng, CTO, Posit\nJoe Cheng is the CTO of Posit, PBC. He’s the original creator of the Shiny web framework and co-creator of ellmer."
+  },
+  {
+    "objectID": "index.html#program-speakers-coming-october-10-2025",
+    "href": "index.html#program-speakers-coming-october-10-2025",
+    "title": "R+AI 2025",
+    "section": "Program, speakers: Coming October 10, 2025",
+    "text": "Program, speakers: Coming October 10, 2025\nWhether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you.\nExperience inspiring keynotes and talks, hands-on workshops, lightning talks, and panel discussions designed to educate, connect, and empower R users at every level.\n\nTalks will be recorded\n\nSpeakers participate in live Q&A\n\nSchedule is US Eastern Time Zone"
+  },
+  {
+    "objectID": "index.html#registration-pricing",
+    "href": "index.html#registration-pricing",
+    "title": "R+AI 2025",
     "section": "Registration Pricing",
-    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$75"
+    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
+  },
+  {
+    "objectID": "index.html#sponsorships",
+    "href": "index.html#sponsorships",
+    "title": "R+AI 2025",
+    "section": "Sponsorships",
+    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org"
+  },
+  {
+    "objectID": "index.html#register-now-1",
+    "href": "index.html#register-now-1",
+    "title": "R+AI 2025",
+    "section": "Register Now!",
+    "text": "Register Now!"
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Program details: Coming Soon.\n\nTracks: TBD\nSessions: TBD\nPosters: TBD"
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration information: Coming Soon.\n\nPricing tiers: TBD\nDiscounts: TBD\nRefund policy: TBD"
   },
   {
     "objectID": "venue.html",
