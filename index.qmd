@@ -14,6 +14,8 @@ Join us at R+AI 2025, our inaugural conference dedicated to the open-source R co
 
 ## **Keynote:** Joe Cheng, CTO, Posit
 
+#### "Keeping LLMs in Their Lane: Focused AI for Data Science and Research"
+
 Joe Cheng is the CTO of Posit, PBC. He's the original creator of the Shiny web framework and co-creator of ellmer.
 
 ![](images/joe-cheng.jpg)
