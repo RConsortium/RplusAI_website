@@ -20,7 +20,7 @@ Joe Cheng is the CTO of Posit, PBC. He's the original creator of the Shiny web f
 
 ![](images/joe-cheng.jpg)
 
-## Program, speakers: Coming October 10, 2025 
+## Program, speakers: Coming soon! 
 
 Whether you're just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep 
 learning or responsible AI—there's something here for you. 
