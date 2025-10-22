@@ -25,21 +25,21 @@
     "href": "about.html",
     "title": "About R+AI",
     "section": "",
-    "text": "R+AI 2025 is an R Consortium event focused on artificial intelligence with R. The program spans keynotes, talks, workshops, lightning talks, and panels."
-  },
-  {
-    "objectID": "about.html#register-now",
-    "href": "about.html#register-now",
-    "title": "About R+AI",
-    "section": "Register Now!",
-    "text": "Register Now!"
+    "text": "R+AI 2025 is an R Consortium event focused on artificial intelligence with R. The program includes a two day schedule including a keynote on Day 1, talks, and a workshop."
   },
   {
     "objectID": "about.html#goals",
     "href": "about.html#goals",
     "title": "About R+AI",
     "section": "Goals",
-    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, GenAI, and responsible AI.\nConnect the community through hands-on learning.\n\nDates: Nov 12–13, 2025\nLocation: 100% online\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nTime Zone: Schedule is US Eastern Time Zone\nIndustry, Academia, and Student level ticketing will all be available"
+    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, GenAI, and responsible AI.\nConnect the community through hands-on learning."
+  },
+  {
+    "objectID": "about.html#quick-facts",
+    "href": "about.html#quick-facts",
+    "title": "About R+AI",
+    "section": "Quick Facts",
+    "text": "Quick Facts\nDates: Nov 12–13, 2025\nLocation: 100% online\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nTime Zone: Schedule is US Eastern Time Zone\nPricing: Industry, Academia, and Student level ticketing are all available"
   },
   {
     "objectID": "about.html#registration-pricing",
@@ -49,8 +49,8 @@
     "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
   },
   {
-    "objectID": "about.html#register-now-1",
-    "href": "about.html#register-now-1",
+    "objectID": "about.html#register-now",
+    "href": "about.html#register-now",
     "title": "About R+AI",
     "section": "Register Now!",
     "text": "Register Now!"
@@ -119,11 +119,18 @@
     "text": "Register Now!\n\nDates: Nov 12–13, 2025\n\n\nLocation: 100% online"
   },
   {
+    "objectID": "index.html#incredible-two-day-schedule",
+    "href": "index.html#incredible-two-day-schedule",
+    "title": "R+AI 2025",
+    "section": "INCREDIBLE TWO DAY SCHEDULE!",
+    "text": "INCREDIBLE TWO DAY SCHEDULE!\nWhether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you.\nExperience inspiring keynotes and talks and a hands-on workshop, all designed empower R users at every level.\n\nTalks will be recorded\n\nSpeakers participate in live Q&A\n\nSchedule is US Eastern Time Zone"
+  },
+  {
     "objectID": "index.html#keynote-address",
     "href": "index.html#keynote-address",
     "title": "R+AI 2025",
     "section": "KEYNOTE ADDRESS",
-    "text": "KEYNOTE ADDRESS\n\nJoe Cheng, CTO, Posit\n\nKeeping LLMs in Their Lane: Focused AI for Data Science and Research\nDate & Time: November 12 at 10:00am, Eastern\n\n\n\nAbstract\nLLMs are powerful, flexible, easy-to-use… and often wrong. This is a dangerous combination, especially for data analysis and scientific research, where correctness and reproducibility are core requirements. Fortunately, it turns out that by carefully applying LLMs to narrower use cases, we can turn them into surprisingly reliable assistants that accelerate and enhance, rather than undermine, scientific work. This is not just theory—I’ll showcase working examples of seamlessly integrating LLMs into analytic workflows, helping data scientists build interactive, intelligent applications without needing to be web developers. You’ll see firsthand how keeping LLMs focused lets us leverage their “intelligence” in a way that’s practical, rigorous, and reproducible.\n\n\nBio\nJoe Cheng is the CTO and first employee at Posit, PBC (formerly known as RStudio), where he helped create the RStudio IDE, Shiny web framework, and Databot agent for exploratory data analysis.\nWhether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you.\nExperience inspiring keynotes and talks, hands-on workshops, lightning talks, and panel discussions designed to educate, connect, and empower R users at every level.\n\nTalks will be recorded\n\nSpeakers participate in live Q&A\n\nSchedule is US Eastern Time Zone"
+    "text": "KEYNOTE ADDRESS\n\nJoe Cheng, CTO, Posit\n\nKeeping LLMs in Their Lane: Focused AI for Data Science and Research\nDate & Time: November 12 at 10:00am, Eastern\n\n\n\nAbstract\nLLMs are powerful, flexible, easy-to-use… and often wrong. This is a dangerous combination, especially for data analysis and scientific research, where correctness and reproducibility are core requirements. Fortunately, it turns out that by carefully applying LLMs to narrower use cases, we can turn them into surprisingly reliable assistants that accelerate and enhance, rather than undermine, scientific work. This is not just theory—I’ll showcase working examples of seamlessly integrating LLMs into analytic workflows, helping data scientists build interactive, intelligent applications without needing to be web developers. You’ll see firsthand how keeping LLMs focused lets us leverage their “intelligence” in a way that’s practical, rigorous, and reproducible."
   },
   {
     "objectID": "index.html#registration-pricing",
@@ -138,13 +145,6 @@
     "title": "R+AI 2025",
     "section": "Sponsorships",
     "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org"
-  },
-  {
-    "objectID": "index.html#register-now-1",
-    "href": "index.html#register-now-1",
-    "title": "R+AI 2025",
-    "section": "Register Now!",
-    "text": "Register Now!"
   },
   {
     "objectID": "program.html",
