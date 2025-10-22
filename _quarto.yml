@@ -13,6 +13,12 @@ website:
         href: about.qmd
       - text: Call for Proposals
         href: cfp.qmd
+      - text: Program
+        href: program.qmd
+      - text: Abstracts
+        href: Abstracts.qmd
+      - text: Workshops
+        href: workshops.qmd
       - text: Code of Conduct
         href: attend.qmd
 

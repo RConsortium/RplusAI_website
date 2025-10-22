@@ -12,15 +12,23 @@ Join us at R+AI 2025, our inaugural conference dedicated to the open-source R co
 ### **Dates:** Nov 12–13, 2025
 ### **Location:** 100% online
 
-## **Keynote:** Joe Cheng, CTO, Posit
+## KEYNOTE ADDRESS
 
-#### "Keeping LLMs in Their Lane: Focused AI for Data Science and Research"
+### Joe Cheng, CTO, Posit
 
-Joe Cheng is the CTO of Posit, PBC. He's the original creator of the Shiny web framework and co-creator of ellmer.
+#### Keeping LLMs in Their Lane: Focused AI for Data Science and Research
 
-![](images/joe-cheng.jpg)
+**Date & Time:** November 12 at 10:00am, Eastern
 
-## Program, speakers: Coming soon! 
+![](images/joe-cheng.jpg){style="border-radius: 50%; width: 300px;"}
+
+#### Abstract
+
+LLMs are powerful, flexible, easy-to-use... and often wrong. This is a dangerous combination, especially for data analysis and scientific research, where correctness and reproducibility are core requirements. Fortunately, it turns out that by carefully applying LLMs to narrower use cases, we can turn them into surprisingly reliable assistants that accelerate and enhance, rather than undermine, scientific work. This is not just theory—I'll showcase working examples of seamlessly integrating LLMs into analytic workflows, helping data scientists build interactive, intelligent applications without needing to be web developers. You'll see firsthand how keeping LLMs focused lets us leverage their "intelligence" in a way that's practical, rigorous, and reproducible.
+
+#### Bio
+
+Joe Cheng is the CTO and first employee at Posit, PBC (formerly known as RStudio), where he helped create the RStudio IDE, Shiny web framework, and Databot agent for exploratory data analysis. 
 
 Whether you're just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep 
 learning or responsible AI—there's something here for you. 

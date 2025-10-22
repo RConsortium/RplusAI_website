@@ -1,9 +1,36 @@
 ---
-title: "Program"
+title: "R+AI 2025 Program"
 ---
 
-Program details: **Coming Soon**.
+## Day 1: Wednesday, November 12, 2025
 
-- Tracks: TBD
-- Sessions: TBD
-- Posters: TBD
+All times Eastern
+
+| Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
+|------------|----------|----------|---------------|----------------------------------|
+| 10:00 AM | 10:40 AM | 40 mins | [Keynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research](Abstracts.qmd#joe-cheng) | Joe Cheng, CTO, Posit |
+| 10:45 AM | 11:20 AM | 35 mins | [Me, Myself, and Claude](Abstracts.qmd#jasmine-daly) | Jasmine Daly, Principal Consultant & Founder, Daly Analytics |
+| 11:20 AM | 11:55 AM | 35 mins | [Reviving Forgotten Code with LLMs](Abstracts.qmd#jonathan-pearce) | Jonathan Pearce, Data Scientist, Lightspeed Commerce |
+| 11:55 AM | 12:30 PM | 35 mins | [Tools for LLMs and Humans who use R](Abstracts.qmd#garrick-aden-buie) | Garrick Aden-Buie, Software Engineer, Posit |
+| 12:30 PM | 1:05 PM | 35 mins | [Building a Better R AI Assistant: A Multi-Agent Approach](Abstracts.qmd#pawel-rucki) | Pawel Rucki, Principal Data Scientist, Roche |
+| 1:05 PM | 1:40 PM | 35 mins | [mini007 - A Lightweight Framework for Multi-Agent Orchestration in R](Abstracts.qmd#mohamed-el-fodil-ihaddaden) | Mohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE |
+| 1:40 PM | 2:15 PM | 35 mins | [Analyzing LLM Evaluations](Abstracts.qmd#max-kuhn) | Max Kuhn, Software Engineer, Posit PBC |
+| 2:15 PM | 2:50 PM | 35 mins | [Biomedical ontology dictionary creation with embeddings and local LLMs](Abstracts.qmd#thomas-charlon) | Thomas Charlon, Research Associate, Harvard Medical School |
+| 2:50 PM | 3:25 PM | 35 mins | AI Agents for Accelerating Data Analysis in Clinical Development | Weijie Zhang |
+| 3:25 PM | 4:00 PM | 35 mins | [Brand your docs, apps, and ggplots using LLMs](Abstracts.qmd#umair-durani) | Umair Durrani, PhD, Data Scientist, Presage Group Inc. |
+
+## Day 2: Thursday, November 13, 2025
+
+All times Eastern
+
+| Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
+|------------|----------|----------|---------------|----------------------------------|
+| 10:00 AM | 10:35 AM | 35 mins | [Introducing geodl: An R package for geospatial semantic segmentation](Abstracts.qmd#aaron-maxwell) | Aaron Maxwell, Associate Professor, West Virginia University |
+| 10:35 AM | 11:10 AM | 35 mins | [How deep learning helps build results that beat prior records](Abstracts.qmd#russ-conte) | Russ Conte |
+| 11:10 AM | 11:45 AM | 35 mins | [Gradient Boosting Machines (GBMs) in the Age of LLMs and ChatGPT](Abstracts.qmd#szilard-pafka) | Szilard Pafka, PhD |
+| 11:45 AM | 12:20 PM | 35 mins | [Tracking the Evolution of R and Python Tools for GenAI](Abstracts.qmd#xu-fei) | Xu Fei, Senior Solutions Engineer, A2-Ai |
+| 12:20 PM | 12:55 PM | 35 mins | kuzco \| Computer Vision made easy | Frankie Hull |
+| 12:55 PM | 1:30 PM | 35 mins | [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation](Abstracts.qmd#troy-hernandez) | Troy Hernandez, PhD, Founder, cornball.ai |
+| 1:30 PM | 2:05 PM | 35 mins | CancerClarity app: Enhancing cancer data visualization with AI-generated narratives | Edgar Munoz |
+| 2:05 PM | 2:40 PM | 35 mins | [Simplify RAG using Oracle Autonomous Database Select AI](Abstracts.qmd#mark-hornick-sherry-lamonica) | Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning |
+| 3:00 PM | 5:00 PM | 2 hours | [Workshop: From Prompts to Agents: Building & Evaluating R + LLM Workflows](workshops.qmd#from-prompts-to-agents) | Devin Pastoor, Chief Technology and Product Officer, A2-AI; Xu Fei, Senior Solutions Engineer, A2-AI; Aathira Anil Kumar, Software Engineer, A2-AI |
