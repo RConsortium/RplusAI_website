@@ -306,6 +306,38 @@ Xu Fei is a Senior Solutions Engineer at A2-Ai, where he builds AI-powered tools
 
 ---
 
+# Frank Hull {#frank-hull}
+
+**Director of Data Science & Analytics**
+
+![](images/frank_hull.png){style="border-radius: 50%; width: 200px;"}
+
+## kuzco | Computer Vision made easy
+
+**Date & Time:** November 13 at 12:20 PM, Eastern
+
+### Abstract
+
+kuzco transforms computer vision in R by enabling natural language-driven image analysis powered by language models, removing the barriers of manual model training and code-heavy pipelines. With just a prompt and any image, users at any skill level can extract nuanced information—like object detection, classification, and sentiment analysis—without learning deep learning internals. This approach democratizes AI, making computer vision practical and accessible for open-source research and everyday analytics in R.
+
+#### Prompt-Driven Computer Vision in R
+
+kuzco enables users to analyze images by simply asking questions in natural language, bypassing the need for tensor engineering, manual model training, or deep learning expertise.
+
+#### Accessible AI for All R Users
+
+Designed for both non-specialists and advanced practitioners, kuzco "citizenizes" computer vision by removing the barriers of code-heavy pipelines, letting anyone in R extract meaning from images through conversational prompts.
+
+#### Local, Cloud, and Flexible Vision Workflows
+
+kuzco leverages ellmer, so that local LLMs via Ollama, or non-local LLMs can be used, ensuring data privacy or speedy execution depending on the use case. Prompts can be customized and tailored to use allowing flexibility depending on the user needs.
+
+### Bio
+
+Frank Hull is a director of data science & analytics, leading a data science team in the energy sector, an open source contributor, and a developer of [{kuzco}](https://github.com/frankiethull/kuzco), an R package that reimagines how image classification and computer vision can be approached using large language models (LLMs). With a passion for building tools that make advanced technology accessible to non-specialists, Frank has also contributed to the R ecosystem through multiple projects, and actively maintains his work on [GitHub](https://github.com/frankiethull) and his [personal site](https://frankiethull.github.io/about.html).
+
+---
+
 # Troy Hernandez {#troy-hernandez}
 
 **PhD, Founder, cornball.ai**

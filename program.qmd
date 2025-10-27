@@ -29,7 +29,7 @@ All times Eastern
 | 10:35 AM | 11:10 AM | 35 mins | [How deep learning helps build results that beat prior records](Abstracts.qmd#russ-conte) | Russ Conte |
 | 11:10 AM | 11:45 AM | 35 mins | [Gradient Boosting Machines (GBMs) in the Age of LLMs and ChatGPT](Abstracts.qmd#szilard-pafka) | Szilard Pafka, PhD |
 | 11:45 AM | 12:20 PM | 35 mins | [Tracking the Evolution of R and Python Tools for GenAI](Abstracts.qmd#xu-fei) | Xu Fei, Senior Solutions Engineer, A2-Ai |
-| 12:20 PM | 12:55 PM | 35 mins | kuzco \| Computer Vision made easy | Frankie Hull |
+| 12:20 PM | 12:55 PM | 35 mins | [kuzco \| Computer Vision made easy](Abstracts.qmd#frank-hull) | Frank Hull, Director of Data Science & Analytics |
 | 12:55 PM | 1:30 PM | 35 mins | [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation](Abstracts.qmd#troy-hernandez) | Troy Hernandez, PhD, Founder, cornball.ai |
 | 1:30 PM | 2:05 PM | 35 mins | CancerClarity app: Enhancing cancer data visualization with AI-generated narratives | Edgar Munoz |
 | 2:05 PM | 2:40 PM | 35 mins | [R+AI: Use RAG from your database to gain insights into the R Consortium](Abstracts.qmd#mark-hornick-sherry-lamonica) | Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning |
