@@ -32,5 +32,5 @@ All times Eastern
 | 12:20 PM | 12:55 PM | 35 mins | kuzco \| Computer Vision made easy | Frankie Hull |
 | 12:55 PM | 1:30 PM | 35 mins | [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation](Abstracts.qmd#troy-hernandez) | Troy Hernandez, PhD, Founder, cornball.ai |
 | 1:30 PM | 2:05 PM | 35 mins | CancerClarity app: Enhancing cancer data visualization with AI-generated narratives | Edgar Munoz |
-| 2:05 PM | 2:40 PM | 35 mins | [Simplify RAG using Oracle Autonomous Database Select AI](Abstracts.qmd#mark-hornick-sherry-lamonica) | Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning |
+| 2:05 PM | 2:40 PM | 35 mins | [R+AI: Use RAG from your database to gain insights into the R Consortium](Abstracts.qmd#mark-hornick-sherry-lamonica) | Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning |
 | 3:00 PM | 5:00 PM | 2 hours | [Workshop: From Prompts to Agents: Building & Evaluating R + LLM Workflows](workshops.qmd#from-prompts-to-agents) | Devin Pastoor, Chief Technology and Product Officer, A2-AI; Xu Fei, Senior Solutions Engineer, A2-AI; Aathira Anil Kumar, Software Engineer, A2-AI |
