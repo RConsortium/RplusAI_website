@@ -16,8 +16,7 @@ All times Eastern
 | 1:05 PM | 1:40 PM | 35 mins | [mini007 - A Lightweight Framework for Multi-Agent Orchestration in R](Abstracts.qmd#mohamed-el-fodil-ihaddaden) | Mohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE |
 | 1:40 PM | 2:15 PM | 35 mins | [Analyzing LLM Evaluations](Abstracts.qmd#max-kuhn) | Max Kuhn, Software Engineer, Posit PBC |
 | 2:15 PM | 2:50 PM | 35 mins | [Biomedical ontology dictionary creation with embeddings and local LLMs](Abstracts.qmd#thomas-charlon) | Thomas Charlon, Research Associate, Harvard Medical School |
-| 2:50 PM | 3:25 PM | 35 mins | AI Agents for Accelerating Data Analysis in Clinical Development | Weijie Zhang |
-| 3:25 PM | 4:00 PM | 35 mins | [Brand your docs, apps, and ggplots using LLMs](Abstracts.qmd#umair-durani) | Umair Durrani, PhD, Data Scientist, Presage Group Inc. |
+| 2:50 PM | 3:25 PM | 35 mins | [Brand your docs, apps, and ggplots using LLMs](Abstracts.qmd#umair-durani) | Umair Durrani, PhD, Data Scientist, Presage Group Inc. |
 
 ## Day 2: Thursday, November 13, 2025
 
