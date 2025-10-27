@@ -363,6 +363,40 @@ Troy Hernandez is a data scientist, open-source developer, and founder of [cornb
 
 ---
 
+# Edgar Muñoz {#edgar-munoz}
+
+**Statistician, Institute for Health Promotion Research (IHPR) at UT Health San Antonio**
+
+![](images/edgar-munoz.png){style="border-radius: 50%; width: 200px;"}
+
+## CancerClarity app: Enhancing cancer data visualization with AI-generated narratives
+
+**Date & Time:** November 13 at 1:30 PM, Eastern
+
+### Abstract
+
+**Background:** Community cancer centers face challenges in accessing cancer data and communicating health information to patients and community members due to limited tools and resources. The CancerClarity app, recognized at the 2023 Catchment Area Data Conference Hackathon, addresses this need by integrating data visualization with Artificial intelligence (AI)-driven narrative generation. Converting quantitative cancer statistics to narrative descriptions using large language models (LLMs) may help cancer centers communicate complex cancer data more effectively to diverse stakeholders.
+
+**Methods:** The CancerClarity app employs LLM prompting within the R Shiny web framework, sourcing data from Cancer InFocus. It offers users an interactive exploration of cancer incidence, mortality, and health determinants across U.S. counties.
+
+**Results:** The CancerClarity app integrates LLM via its application programming interface (API) for real-time, linguistically tailored narratives, making cancer data accessible to a broad audience. The app offers cancer centers a cost-effective solution to swiftly identify their catchment areas and assess the cancer burden within the populations they serve.
+
+**Discussion:** By enhancing public health decision-making through AI-driven narratives, the app underscores the critical role of effective communication in public health. Future enhancements include the integration of Retrieval Augmented Generation (RAG) for improved AI responses and evidence-based public health guidance.
+
+### Bio
+
+Muñoz has a passion for reducing cancer and disease by applying innovative technologies like generative AI in the United States and his native Colombia.
+
+He's always willing to lend a hand and a smile whenever needed.
+
+Muñoz offers plenty of smiles and support for data science and epidemiology as a senior-level statistician at the Institute for Health Promotion Research (IHPR) at UT Health San Antonio.
+
+At the IHPR, Muñoz assists in developing research, conducting analyses, identifying and using available methodologies and databases, and preparing reports. He has a master's degree in epidemiology and a postgraduate certificate in biomedical data science, and he has participated in the design, conduction, analysis, and evaluation of complex public health interventions in Colombia and the U.S.
+
+His interests are the design and evaluation of multilevel interventions, applied spatial and temporal analysis, precision public health, artificial intelligence, and other health issues.
+
+---
+
 # Mark Hornick and Sherry LaMonica {#mark-hornick-sherry-lamonica}
 
 **Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning**
