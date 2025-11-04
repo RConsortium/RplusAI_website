@@ -268,7 +268,7 @@ Russ developed four R packages that use AI and ensembles to automatically give r
 
 # Szilard Pafka {#szilard-pafka}
 
-**PhD**
+**PhD, Chief Scientist, Epoch**
 
 ![](images/szilard_pafka.png){style="border-radius: 50%; width: 200px;"}
 
