@@ -1,5 +1,5 @@
 ---
-title: "R+AI 2025 Workshops"
+title: "R+AI 2025 Workshop"
 ---
 
 <div id="from-prompts-to-agents"></div>
