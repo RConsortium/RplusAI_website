@@ -411,7 +411,7 @@ His interests are the design and evaluation of multilevel interventions, applied
 
 The R Consortium blogs contain a rich set of content about R, the R Community, and R Consortium activities. You could read each blog yourself, or you could ask natural language questions using Retrieval augmented generation (RAG) using this content as a basis. RAG combines vector search with generative AI – enabling more relevant and up-to-date responses from your large language model (LLM).
 
-In this session, we highlight using an R interface to answers natural language questions using R Consortium blog content. Using RStudio, we'll take you through a series of R functions showing you how to easily create a vector index and invoke RAG-related functionality from Oracle Autonomous Database, switching between LLMs and using external and database-internal transformers. Users can try this for themselves using a free LiveLabs environment, which we'll highlight during the session.
+In this session, we highlight using an R interface to answer natural language questions using R Consortium blog content. Using RStudio, we'll take you through a series of R functions showing you how to easily create a vector index and invoke RAG-related functionality from Oracle Autonomous Database, switching between LLMs and using external and database-internal transformers. Users can try this for themselves using a free LiveLabs environment, which we'll highlight during the session.
 
 ### Bio - Mark Hornick
 
