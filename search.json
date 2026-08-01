@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Speaker lineup: Coming Soon.\nIf you would like to recommend a speaker, contact: TBD."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Schedule: Coming Soon.\nDates: Nov 12–13, 2025 Location: 100% Online Talks will be recorded Speakers participate in live Q&A Time zone: US Eastern Time\n\nDay 1: TBD\nDay 2: TBD"
-  },
-  {
     "objectID": "venue.html",
     "href": "venue.html",
     "title": "Venue",
@@ -21,60 +7,18 @@
     "text": "Venue details: Online.\n\nLocation: Online event\nTime zone: US Eastern Time (ET)\nTravel and lodging: TBD\nAccessibility: TBD"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About R+AI",
-    "section": "",
-    "text": "R+AI 2025 is an R Consortium event focused on artificial intelligence with R. The program includes a two day schedule including a keynote on Day 1, talks, and a workshop."
-  },
-  {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About R+AI",
-    "section": "Goals",
-    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, GenAI, and responsible AI.\nConnect the community through hands-on learning."
-  },
-  {
-    "objectID": "about.html#quick-facts",
-    "href": "about.html#quick-facts",
-    "title": "About R+AI",
-    "section": "Quick Facts",
-    "text": "Quick Facts\nDates: Nov 12–13, 2025\nLocation: 100% online\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nTime Zone: Schedule is US Eastern Time Zone\nPricing: Industry, Academia, and Student level ticketing are all available"
-  },
-  {
-    "objectID": "about.html#registration-pricing",
-    "href": "about.html#registration-pricing",
-    "title": "About R+AI",
-    "section": "Registration Pricing",
-    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
-  },
-  {
-    "objectID": "about.html#register-now",
-    "href": "about.html#register-now",
-    "title": "About R+AI",
-    "section": "Register Now!",
-    "text": "Register Now!"
-  },
-  {
-    "objectID": "cfp.html",
-    "href": "cfp.html",
+    "objectID": "cfp.html#submit-a-proposal",
+    "href": "cfp.html#submit-a-proposal",
     "title": "Call for Proposals",
-    "section": "",
-    "text": "Join us at R+AI 2025, our inaugural conference dedicated to the open-source R community and every facet of artificial intelligence. Whether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you. Experience inspiring keynotes and talks, hands-on workshops, lightning talks, and panel discussions designed to educate, connect, and empower R users at every level."
-  },
-  {
-    "objectID": "cfp.html#the-call-for-proposals-deadline-has-passed.-thank-you-for-your-interest.",
-    "href": "cfp.html#the-call-for-proposals-deadline-has-passed.-thank-you-for-your-interest.",
-    "title": "Call for Proposals",
-    "section": "",
-    "text": "Join us at R+AI 2025, our inaugural conference dedicated to the open-source R community and every facet of artificial intelligence. Whether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you. Experience inspiring keynotes and talks, hands-on workshops, lightning talks, and panel discussions designed to educate, connect, and empower R users at every level."
+    "section": "Submit a proposal",
+    "text": "Submit a proposal\nThe Call for Proposals for R+AI 2026 is now open. We want to hear about your experience and specific workflows at the intersection of R and AI—whether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, deploying AI solutions in industry, or researching deep learning and responsible AI.\n\nSUBMIT ABSTRACT (form coming soon)"
   },
   {
     "objectID": "cfp.html#key-dates",
     "href": "cfp.html#key-dates",
     "title": "Call for Proposals",
     "section": "Key dates",
-    "text": "Key dates\n\nCFP closes: September 5, 2025"
+    "text": "Key dates\n\nCFP closes: TBD\n\nNotifications: TBD\n\nConference: TBD"
   },
   {
     "objectID": "cfp.html#technical-areas",
@@ -91,95 +35,46 @@
     "text": "Formats\n\nTalks (20–25 min)\n\nLightning talks (5–7 min)\n\nWorkshops (2–3 hours)\n\nPanels (45–60 min)"
   },
   {
-    "objectID": "attend.html",
-    "href": "attend.html",
-    "title": "R+AI 2025",
-    "section": "",
-    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
-  },
-  {
-    "objectID": "attend.html#code-of-conduct",
-    "href": "attend.html#code-of-conduct",
-    "title": "R+AI 2025",
-    "section": "",
-    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
+    "objectID": "cfp.html#important-notes",
+    "href": "cfp.html#important-notes",
+    "title": "Call for Proposals",
+    "section": "Important notes",
+    "text": "Important notes\nAll speakers are required to adhere to our Code of Conduct.\nTalks will be recorded and posted to the R Consortium YouTube channel."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "R+AI 2025",
+    "title": "R+AI 2026",
     "section": "",
-    "text": "Join us at R+AI 2025, our inaugural conference dedicated to the open-source R community and every facet of artificial intelligence."
+    "text": "Join us at R+AI 2026, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence."
   },
   {
-    "objectID": "index.html#register-now",
-    "href": "index.html#register-now",
-    "title": "R+AI 2025",
-    "section": "Register Now!",
-    "text": "Register Now!\n\nDates: Nov 12–13, 2025\n\n\nLocation: 100% online"
+    "objectID": "index.html#call-for-proposals-now-open",
+    "href": "index.html#call-for-proposals-now-open",
+    "title": "R+AI 2026",
+    "section": "Call for Proposals — Now Open",
+    "text": "Call for Proposals — Now Open\nLend your voice to the community. We want to hear about your experience and specific workflows—from machine learning and LLMs in R, to GenAI tooling, industry deployments, and responsible AI research.\n\nView the Call for Proposals"
   },
   {
-    "objectID": "index.html#incredible-two-day-schedule",
-    "href": "index.html#incredible-two-day-schedule",
-    "title": "R+AI 2025",
-    "section": "INCREDIBLE TWO DAY SCHEDULE!",
-    "text": "INCREDIBLE TWO DAY SCHEDULE!\nWhether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, part of an industry team deploying AI solutions in finance, healthcare, or marketing, or a researcher pushing the boundaries of deep learning or responsible AI—there’s something here for you.\nExperience inspiring keynotes and talks and a hands-on workshop, all designed empower R users at every level.\n\nTalks will be recorded\n\nSpeakers participate in live Q&A\n\nSchedule is US Eastern Time Zone"
+    "objectID": "index.html#about-the-conference",
+    "href": "index.html#about-the-conference",
+    "title": "R+AI 2026",
+    "section": "About the conference",
+    "text": "About the conference\nR+AI brings together practitioners, researchers, and industry teams for talks, lightning talks, workshops, and panels designed to educate, connect, and empower R users at every level.\nConference dates and registration details will be announced soon."
   },
   {
-    "objectID": "index.html#keynote-address",
-    "href": "index.html#keynote-address",
-    "title": "R+AI 2025",
-    "section": "KEYNOTE ADDRESS",
-    "text": "KEYNOTE ADDRESS\n\nJoe Cheng, CTO, Posit\n\nKeeping LLMs in Their Lane: Focused AI for Data Science and Research\nDate & Time: November 12 at 10:00am, Eastern\n\n\n\nAbstract\nLLMs are powerful, flexible, easy-to-use… and often wrong. This is a dangerous combination, especially for data analysis and scientific research, where correctness and reproducibility are core requirements. Fortunately, it turns out that by carefully applying LLMs to narrower use cases, we can turn them into surprisingly reliable assistants that accelerate and enhance, rather than undermine, scientific work. This is not just theory—I’ll showcase working examples of seamlessly integrating LLMs into analytic workflows, helping data scientists build interactive, intelligent applications without needing to be web developers. You’ll see firsthand how keeping LLMs focused lets us leverage their “intelligence” in a way that’s practical, rigorous, and reproducible."
-  },
-  {
-    "objectID": "index.html#registration-pricing",
-    "href": "index.html#registration-pricing",
-    "title": "R+AI 2025",
-    "section": "Registration Pricing",
-    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$25\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
+    "objectID": "index.html#past-events",
+    "href": "index.html#past-events",
+    "title": "R+AI 2026",
+    "section": "Past Events",
+    "text": "Past Events\nSee the inaugural R+AI 2025 program, abstracts, and recordings archive."
   },
   {
     "objectID": "index.html#sponsorships",
     "href": "index.html#sponsorships",
-    "title": "R+AI 2025",
+    "title": "R+AI 2026",
     "section": "Sponsorships",
-    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org"
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "R+AI 2025 Program",
-    "section": "",
-    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n10:00 AM\n10:40 AM\n40 mins\nKeynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research\nJoe Cheng, CTO, Posit\n\n\n10:45 AM\n11:20 AM\n35 mins\nMe, Myself, and Claude\nJasmine Daly, Principal Consultant & Founder, Daly Analytics\n\n\n11:20 AM\n11:55 AM\n35 mins\nReviving Forgotten Code with LLMs\nJonathan Pearce, Data Scientist, Lightspeed Commerce\n\n\n11:55 AM\n12:30 PM\n35 mins\nTools for LLMs and Humans who use R\nGarrick Aden-Buie, Software Engineer, Posit\n\n\n12:30 PM\n1:05 PM\n35 mins\nBuilding a Better R AI Assistant: A Multi-Agent Approach\nPawel Rucki, Principal Data Scientist, Roche\n\n\n1:05 PM\n1:40 PM\n35 mins\nmini007 - A Lightweight Framework for Multi-Agent Orchestration in R\nMohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE\n\n\n1:40 PM\n2:15 PM\n35 mins\nAnalyzing LLM Evaluations\nMax Kuhn, Software Engineer, Posit PBC\n\n\n2:15 PM\n2:50 PM\n35 mins\nBiomedical ontology dictionary creation with embeddings and local LLMs\nThomas Charlon, Research Associate, Harvard Medical School\n\n\n2:50 PM\n3:25 PM\n35 mins\nBrand your docs, apps, and ggplots using LLMs\nUmair Durrani, PhD, Data Scientist, Presage Group Inc."
-  },
-  {
-    "objectID": "program.html#day-1-wednesday-november-12-2025",
-    "href": "program.html#day-1-wednesday-november-12-2025",
-    "title": "R+AI 2025 Program",
-    "section": "",
-    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n10:00 AM\n10:40 AM\n40 mins\nKeynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research\nJoe Cheng, CTO, Posit\n\n\n10:45 AM\n11:20 AM\n35 mins\nMe, Myself, and Claude\nJasmine Daly, Principal Consultant & Founder, Daly Analytics\n\n\n11:20 AM\n11:55 AM\n35 mins\nReviving Forgotten Code with LLMs\nJonathan Pearce, Data Scientist, Lightspeed Commerce\n\n\n11:55 AM\n12:30 PM\n35 mins\nTools for LLMs and Humans who use R\nGarrick Aden-Buie, Software Engineer, Posit\n\n\n12:30 PM\n1:05 PM\n35 mins\nBuilding a Better R AI Assistant: A Multi-Agent Approach\nPawel Rucki, Principal Data Scientist, Roche\n\n\n1:05 PM\n1:40 PM\n35 mins\nmini007 - A Lightweight Framework for Multi-Agent Orchestration in R\nMohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE\n\n\n1:40 PM\n2:15 PM\n35 mins\nAnalyzing LLM Evaluations\nMax Kuhn, Software Engineer, Posit PBC\n\n\n2:15 PM\n2:50 PM\n35 mins\nBiomedical ontology dictionary creation with embeddings and local LLMs\nThomas Charlon, Research Associate, Harvard Medical School\n\n\n2:50 PM\n3:25 PM\n35 mins\nBrand your docs, apps, and ggplots using LLMs\nUmair Durrani, PhD, Data Scientist, Presage Group Inc."
-  },
-  {
-    "objectID": "program.html#day-2-thursday-november-13-2025",
-    "href": "program.html#day-2-thursday-november-13-2025",
-    "title": "R+AI 2025 Program",
-    "section": "Day 2: Thursday, November 13, 2025",
-    "text": "Day 2: Thursday, November 13, 2025\nAll times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n10:00 AM\n10:35 AM\n35 mins\nIntroducing geodl: An R package for geospatial semantic segmentation\nAaron Maxwell, Associate Professor, West Virginia University\n\n\n10:35 AM\n11:10 AM\n35 mins\nHow deep learning helps build results that beat prior records\nRuss Conte\n\n\n11:10 AM\n11:45 AM\n35 mins\nGradient Boosting Machines (GBMs) in the Age of LLMs and ChatGPT\nSzilard Pafka, PhD, Chief Scientist, Epoch\n\n\n11:45 AM\n12:20 PM\n35 mins\nTracking the Evolution of R and Python Tools for GenAI\nXu Fei, Senior Solutions Engineer, A2-Ai\n\n\n12:20 PM\n12:55 PM\n35 mins\nkuzco | Computer Vision made easy\nFrank Hull, Director of Data Science & Analytics\n\n\n12:55 PM\n1:30 PM\n35 mins\nBringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation\nTroy Hernandez, PhD, Founder, cornball.ai\n\n\n1:30 PM\n2:05 PM\n35 mins\nR+AI: Use RAG from your database to gain insights into the R Consortium\nMark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning\n\n\n2:20 PM\n4:20 PM\n2 hours\nWorkshop: From Prompts to Agents: Building & Evaluating R + LLM Workflows\nDevin Pastoor, Chief Technology and Product Officer, A2-AI; Xu Fei, Senior Solutions Engineer, A2-AI; Aathira Anil Kumar, Software Engineer, A2-AI"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration information: Coming Soon.\n\nPricing tiers: TBD\nDiscounts: TBD\nRefund policy: TBD"
-  },
-  {
-    "objectID": "workshops.html#from-prompts-to-agents-building-evaluating-r-llm-workflows",
-    "href": "workshops.html#from-prompts-to-agents-building-evaluating-r-llm-workflows",
-    "title": "R+AI 2025 Workshop",
-    "section": "From Prompts to Agents: Building & Evaluating R + LLM Workflows",
-    "text": "From Prompts to Agents: Building & Evaluating R + LLM Workflows\n\n\n\nDescription\nThis hands-on workshop is a fast-track for R users who are new to generative AI. We’ll start with reliable prompting patterns in R, then add more context, tool calls, and agentic orchestration to automate multi-step tasks. Along the way we’ll cover tokens & context windows, prompt engineering best practices, model differences, safety basics, testing/QA, and lightweight testing/QC suitable for regulated pharma environments. Demos will feature packages such as ellmer and btw, alongside a small set of generic utilities for HTTP calls, validation, and logging (final package choices may vary). All code and slides will be open-sourced. Participants leave with runnable R scripts that covers a simple agentic workflow plus an evaluation pipeline they can adapt to their teams.\n\n\nTarget Audience & Prerequisites\nR analysts/scientists/engineers comfortable with data frames and basic scripting. No prior ML/AI required.\n\n\nDate & Time\nThursday, November 13, 2025\n2:20 PM - 4:20 PM Eastern (2 hours)\n\n\n\n\n\nDevin Pastoor, PhD\nChief Technology and Product Officer, A2-AI\n\nAs CTPO of A2-Ai, Devin works with clients to deliver end-to-end solutions that support quantitative decision-making. Devin specializes in bridging the unique characteristics of each client’s IT structure with the needs of the scientific team. Some of his focuses for clients include providing strategies to migrate from existing tools to more modern cloud-based workflows, and building prototype tools and dashboards to solve business challenges. Before joining A2-Ai, Devin worked as a principal solutions engineer to help dozens of organizations ranging from the FDA to small biotech and device manufacturers to develop and implement\n\n\nXu Fei\nSenior Solutions Engineer, A2-AI\n\nXu Fei is a Senior Solutions Engineer at A2-Ai, where he builds AI-powered tools and infrastructure for pharmaceutical research workflows. Working across R and Python stacks, he has developed LLM-enabled applications ranging from interactive chatbots to MCP server implementations, with a focus on making GenAI accessible and practical for scientific computing teams. His work bridges enterprise DevOps, cloud APIs (AWS Bedrock), and domain-specific R packages to help scientists integrate AI capabilities into their existing workflows.\n\n\nAathira Anil Kumar\nSoftware Engineer, A2-AI\n\nAathira Anil Kumar is an AI Engineer at A2-AI and a recent graduate of the University of Georgia, where she earned her Master’s in Artificial Intelligence. With over three years of experience researching and building with AI, she has worked with financial and semiconductor data and now focuses on developing generative AI tools for the pharma world—bridging R and Python ecosystems through open-source innovation and applied research."
+    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
   },
   {
     "objectID": "Abstracts.html",
@@ -301,10 +196,115 @@
     "text": "R+AI: Use RAG from your database to gain insights into the R Consortium\nDate & Time: November 13 at 1:30 PM, Eastern\n\nAbstract\nThe R Consortium blogs contain a rich set of content about R, the R Community, and R Consortium activities. You could read each blog yourself, or you could ask natural language questions using Retrieval augmented generation (RAG) using this content as a basis. RAG combines vector search with generative AI – enabling more relevant and up-to-date responses from your large language model (LLM).\nIn this session, we highlight using an R interface to answer natural language questions using R Consortium blog content. Using RStudio, we’ll take you through a series of R functions showing you how to easily create a vector index and invoke RAG-related functionality from Oracle Autonomous Database, switching between LLMs and using external and database-internal transformers. Users can try this for themselves using a free LiveLabs environment, which we’ll highlight during the session.\n\n\nBio - Mark Hornick\nMark Hornick is the senior director of product management for Oracle Machine Learning and Select AI. He has over 25 years of experience integrating and leveraging machine learning with Oracle software and, more recently, generative AI for SQL generation, retrieval augmented generation, AI agents, and solution development. Mark is Oracle’s representative to the R Consortium and is an Oracle advisor to the Analytics and Data Oracle User Community. He has degrees in computer science from Rutgers University and Brown University. He blogs at blogs.oracle.com/machinelearning.\n\n\nBio - Sherry LaMonica\nSherry LaMonica works on Oracle’s AI and Machine Learning product management team, helping organizations to integrate open-source and commercial data science tools into large-scale analytical environments. She has over two decades of experience supporting data-driven innovation across all industries."
   },
   {
+    "objectID": "attend.html",
+    "href": "attend.html",
+    "title": "R+AI 2026",
+    "section": "",
+    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
+  },
+  {
+    "objectID": "attend.html#code-of-conduct",
+    "href": "attend.html#code-of-conduct",
+    "title": "R+AI 2026",
+    "section": "",
+    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Schedule: Coming Soon.\nDates: Nov 12–13, 2025 Location: 100% Online Talks will be recorded Speakers participate in live Q&A Time zone: US Eastern Time\n\nDay 1: TBD\nDay 2: TBD"
+  },
+  {
+    "objectID": "workshops.html#from-prompts-to-agents-building-evaluating-r-llm-workflows",
+    "href": "workshops.html#from-prompts-to-agents-building-evaluating-r-llm-workflows",
+    "title": "R+AI 2025 Workshop",
+    "section": "From Prompts to Agents: Building & Evaluating R + LLM Workflows",
+    "text": "From Prompts to Agents: Building & Evaluating R + LLM Workflows\n\n\n\nDescription\nThis hands-on workshop is a fast-track for R users who are new to generative AI. We’ll start with reliable prompting patterns in R, then add more context, tool calls, and agentic orchestration to automate multi-step tasks. Along the way we’ll cover tokens & context windows, prompt engineering best practices, model differences, safety basics, testing/QA, and lightweight testing/QC suitable for regulated pharma environments. Demos will feature packages such as ellmer and btw, alongside a small set of generic utilities for HTTP calls, validation, and logging (final package choices may vary). All code and slides will be open-sourced. Participants leave with runnable R scripts that covers a simple agentic workflow plus an evaluation pipeline they can adapt to their teams.\n\n\nTarget Audience & Prerequisites\nR analysts/scientists/engineers comfortable with data frames and basic scripting. No prior ML/AI required.\n\n\nDate & Time\nThursday, November 13, 2025\n2:20 PM - 4:20 PM Eastern (2 hours)\n\n\n\n\n\nDevin Pastoor, PhD\nChief Technology and Product Officer, A2-AI\n\nAs CTPO of A2-Ai, Devin works with clients to deliver end-to-end solutions that support quantitative decision-making. Devin specializes in bridging the unique characteristics of each client’s IT structure with the needs of the scientific team. Some of his focuses for clients include providing strategies to migrate from existing tools to more modern cloud-based workflows, and building prototype tools and dashboards to solve business challenges. Before joining A2-Ai, Devin worked as a principal solutions engineer to help dozens of organizations ranging from the FDA to small biotech and device manufacturers to develop and implement\n\n\nXu Fei\nSenior Solutions Engineer, A2-AI\n\nXu Fei is a Senior Solutions Engineer at A2-Ai, where he builds AI-powered tools and infrastructure for pharmaceutical research workflows. Working across R and Python stacks, he has developed LLM-enabled applications ranging from interactive chatbots to MCP server implementations, with a focus on making GenAI accessible and practical for scientific computing teams. His work bridges enterprise DevOps, cloud APIs (AWS Bedrock), and domain-specific R packages to help scientists integrate AI capabilities into their existing workflows.\n\n\nAathira Anil Kumar\nSoftware Engineer, A2-AI\n\nAathira Anil Kumar is an AI Engineer at A2-AI and a recent graduate of the University of Georgia, where she earned her Master’s in Artificial Intelligence. With over three years of experience researching and building with AI, she has worked with financial and semiconductor data and now focuses on developing generative AI tools for the pharma world—bridging R and Python ecosystems through open-source innovation and applied research."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About R+AI",
+    "section": "",
+    "text": "R+AI 2026 is an R Consortium event focused on artificial intelligence with R. The program will include keynotes, talks, workshops, and community discussions."
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About R+AI",
+    "section": "Goals",
+    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, GenAI, and responsible AI.\nConnect the community through hands-on learning."
+  },
+  {
+    "objectID": "about.html#quick-facts",
+    "href": "about.html#quick-facts",
+    "title": "About R+AI",
+    "section": "Quick Facts",
+    "text": "Quick Facts\nDates: TBD\nLocation: TBD\nCFP: Now open\nCommunity: Speakers participate in live Q&A\nRecordings: Talks will be recorded"
+  },
+  {
+    "objectID": "about.html#past-events",
+    "href": "about.html#past-events",
+    "title": "About R+AI",
+    "section": "Past Events",
+    "text": "Past Events\nLooking for last year’s program? Visit Past Events for the R+AI 2025 archive."
+  },
+  {
+    "objectID": "about.html#sponsorships",
+    "href": "about.html#sponsorships",
+    "title": "About R+AI",
+    "section": "Sponsorships",
+    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration information: Coming Soon.\n\nPricing tiers: TBD\nDiscounts: TBD\nRefund policy: TBD"
+  },
+  {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsors",
     "section": "",
     "text": "Sponsorship opportunities: Coming Soon.\nFor sponsor inquiries: TBD."
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Speaker lineup: Coming Soon.\nIf you would like to recommend a speaker, contact: TBD."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "R+AI 2025 Program",
+    "section": "",
+    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n10:00 AM\n10:40 AM\n40 mins\nKeynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research\nJoe Cheng, CTO, Posit\n\n\n10:45 AM\n11:20 AM\n35 mins\nMe, Myself, and Claude\nJasmine Daly, Principal Consultant & Founder, Daly Analytics\n\n\n11:20 AM\n11:55 AM\n35 mins\nReviving Forgotten Code with LLMs\nJonathan Pearce, Data Scientist, Lightspeed Commerce\n\n\n11:55 AM\n12:30 PM\n35 mins\nTools for LLMs and Humans who use R\nGarrick Aden-Buie, Software Engineer, Posit\n\n\n12:30 PM\n1:05 PM\n35 mins\nBuilding a Better R AI Assistant: A Multi-Agent Approach\nPawel Rucki, Principal Data Scientist, Roche\n\n\n1:05 PM\n1:40 PM\n35 mins\nmini007 - A Lightweight Framework for Multi-Agent Orchestration in R\nMohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE\n\n\n1:40 PM\n2:15 PM\n35 mins\nAnalyzing LLM Evaluations\nMax Kuhn, Software Engineer, Posit PBC\n\n\n2:15 PM\n2:50 PM\n35 mins\nBiomedical ontology dictionary creation with embeddings and local LLMs\nThomas Charlon, Research Associate, Harvard Medical School\n\n\n2:50 PM\n3:25 PM\n35 mins\nBrand your docs, apps, and ggplots using LLMs\nUmair Durrani, PhD, Data Scientist, Presage Group Inc."
+  },
+  {
+    "objectID": "program.html#day-1-wednesday-november-12-2025",
+    "href": "program.html#day-1-wednesday-november-12-2025",
+    "title": "R+AI 2025 Program",
+    "section": "",
+    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n10:00 AM\n10:40 AM\n40 mins\nKeynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research\nJoe Cheng, CTO, Posit\n\n\n10:45 AM\n11:20 AM\n35 mins\nMe, Myself, and Claude\nJasmine Daly, Principal Consultant & Founder, Daly Analytics\n\n\n11:20 AM\n11:55 AM\n35 mins\nReviving Forgotten Code with LLMs\nJonathan Pearce, Data Scientist, Lightspeed Commerce\n\n\n11:55 AM\n12:30 PM\n35 mins\nTools for LLMs and Humans who use R\nGarrick Aden-Buie, Software Engineer, Posit\n\n\n12:30 PM\n1:05 PM\n35 mins\nBuilding a Better R AI Assistant: A Multi-Agent Approach\nPawel Rucki, Principal Data Scientist, Roche\n\n\n1:05 PM\n1:40 PM\n35 mins\nmini007 - A Lightweight Framework for Multi-Agent Orchestration in R\nMohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE\n\n\n1:40 PM\n2:15 PM\n35 mins\nAnalyzing LLM Evaluations\nMax Kuhn, Software Engineer, Posit PBC\n\n\n2:15 PM\n2:50 PM\n35 mins\nBiomedical ontology dictionary creation with embeddings and local LLMs\nThomas Charlon, Research Associate, Harvard Medical School\n\n\n2:50 PM\n3:25 PM\n35 mins\nBrand your docs, apps, and ggplots using LLMs\nUmair Durrani, PhD, Data Scientist, Presage Group Inc."
+  },
+  {
+    "objectID": "program.html#day-2-thursday-november-13-2025",
+    "href": "program.html#day-2-thursday-november-13-2025",
+    "title": "R+AI 2025 Program",
+    "section": "Day 2: Thursday, November 13, 2025",
+    "text": "Day 2: Thursday, November 13, 2025\nAll times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n10:00 AM\n10:35 AM\n35 mins\nIntroducing geodl: An R package for geospatial semantic segmentation\nAaron Maxwell, Associate Professor, West Virginia University\n\n\n10:35 AM\n11:10 AM\n35 mins\nHow deep learning helps build results that beat prior records\nRuss Conte\n\n\n11:10 AM\n11:45 AM\n35 mins\nGradient Boosting Machines (GBMs) in the Age of LLMs and ChatGPT\nSzilard Pafka, PhD, Chief Scientist, Epoch\n\n\n11:45 AM\n12:20 PM\n35 mins\nTracking the Evolution of R and Python Tools for GenAI\nXu Fei, Senior Solutions Engineer, A2-Ai\n\n\n12:20 PM\n12:55 PM\n35 mins\nkuzco | Computer Vision made easy\nFrank Hull, Director of Data Science & Analytics\n\n\n12:55 PM\n1:30 PM\n35 mins\nBringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation\nTroy Hernandez, PhD, Founder, cornball.ai\n\n\n1:30 PM\n2:05 PM\n35 mins\nR+AI: Use RAG from your database to gain insights into the R Consortium\nMark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning\n\n\n2:20 PM\n4:20 PM\n2 hours\nWorkshop: From Prompts to Agents: Building & Evaluating R + LLM Workflows\nDevin Pastoor, Chief Technology and Product Officer, A2-AI; Xu Fei, Senior Solutions Engineer, A2-AI; Aathira Anil Kumar, Software Engineer, A2-AI"
+  },
+  {
+    "objectID": "Events.html",
+    "href": "Events.html",
+    "title": "Past R+AI Conferences",
+    "section": "",
+    "text": "R+AI 2025\n    Event Website\n    YouTube Playlist\n  \n  \n  \n  \n  \n    \n\n\n\n\nNo matching items"
   }
 ]
