@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "R+AI 2025"
+  title: "R+AI 2026"
   favicon: images/favicon.ico
   site-url: "https://rconsortium.github.io/RplusAI_website/"
   google-analytics: "G-B697SX1BNN"
@@ -13,12 +13,8 @@ website:
         href: about.qmd
       - text: Call for Proposals
         href: cfp.qmd
-      - text: Program
-        href: program.qmd
-      - text: Abstracts
-        href: Abstracts.qmd
-      - text: Workshops
-        href: workshops.qmd
+      - text: Past Events
+        href: Events.qmd
       - text: Code of Conduct
         href: attend.qmd
 
