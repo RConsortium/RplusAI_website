@@ -2,26 +2,35 @@
 title: "Call for Proposals"
 ---
 
-## The Call for Proposals deadline has passed. Thank you for your interest.
-Join us at R+AI 2025, our inaugural conference dedicated to the open-source 
-R community and every facet of artificial intelligence. Whether you’re 
-just getting started with machine learning, experimenting with large 
-language models in R, leveraging GenAI tools to accelerate your code, 
-part of an industry team deploying AI solutions in finance, healthcare, 
-or marketing, or a researcher pushing the boundaries of deep learning or 
-responsible AI—there’s something here for you. Experience inspiring 
-keynotes and talks, hands-on workshops, lightning talks, and panel 
-discussions designed to educate, connect, and empower R users at every level.
+![](images/RplusAI-CFP-banner-2026.png)
+
+## Submit a proposal
+
+The Call for Proposals for **R+AI 2026** is now open. We want to hear about your experience and specific workflows at the intersection of R and AI—whether you’re just getting started with machine learning, experimenting with large language models in R, leveraging GenAI tools to accelerate your code, deploying AI solutions in industry, or researching deep learning and responsible AI.
+
+<button class="btn btn-primary" onclick="window.location.href='#'">
+  **SUBMIT ABSTRACT** (form coming soon)
+</button>
 
 ## Key dates
-- CFP closes: September 5, 2025  
+
+- CFP closes: TBD  
+- Notifications: TBD  
+- Conference: TBD  
 
 ## Technical Areas
 
 ![](images/RplusAI-CFP-Topics.png)
 
 ## Formats
+
 - Talks (20–25 min)  
 - Lightning talks (5–7 min)  
 - Workshops (2–3 hours)  
 - Panels (45–60 min)
+
+## Important notes
+
+All speakers are required to adhere to our [Code of Conduct](attend.qmd).
+
+Talks will be recorded and posted to the [R Consortium YouTube channel](https://www.youtube.com/@RConsortium).

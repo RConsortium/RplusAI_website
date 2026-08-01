@@ -1,6 +1,8 @@
-# R+AI 2025 Website
+# R+AI 2026 Website
 
-Quarto site for the R+AI 2025 event.
+Quarto site for the R+AI 2026 event.
+
+The previous conference site is archived at [RConsortium/RplusAI_2025](https://github.com/RConsortium/RplusAI_2025) (`https://rconsortium.github.io/RplusAI_2025/`).
 
 ## Local preview
 
@@ -12,10 +14,9 @@ quarto preview
 
 ## Publish with GitHub Pages
 
-1) Create a repo named `RplusAI_website` under the `RConsortium` org.
-2) Push this folder to the `main` branch.
-3) In the repo: Settings → Actions → General → Workflow permissions → **Read and write**.
-4) Settings → Pages → Source: **Deploy from a branch**, Branch: `gh-pages`, Folder: `/`.
-5) Push to `main`. The workflow builds and pushes the rendered site to `gh-pages`.
+1) Repo: `RConsortium/RplusAI_website`
+2) In the repo: Settings → Actions → General → Workflow permissions → **Read and write**.
+3) Settings → Pages → Source: **Deploy from a branch**, Branch: `gh-pages`, Folder: `/`.
+4) Push to `main`. The workflow builds and pushes the rendered site to `gh-pages`.
 
-Site URL will be: `https://rconsortium.github.io/RplusAI_website/`.
+Site URL: `https://rconsortium.github.io/RplusAI_website/`.
