@@ -21,11 +21,11 @@
     "text": "Key dates\n\nCFP closes: TBD\n\nNotifications: TBD\n\nConference: TBD"
   },
   {
-    "objectID": "cfp.html#example-technical-areas-from-rai-2025",
-    "href": "cfp.html#example-technical-areas-from-rai-2025",
+    "objectID": "cfp.html#rai-2026-call-for-proposals-technical-areas",
+    "href": "cfp.html#rai-2026-call-for-proposals-technical-areas",
     "title": "Call for Proposals",
-    "section": "Example Technical Areas from R+AI 2025",
-    "text": "Example Technical Areas from R+AI 2025"
+    "section": "R+AI 2026 Call for Proposals: Technical Areas",
+    "text": "R+AI 2026 Call for Proposals: Technical Areas\nFoundations of Modern AI for R Users\nTutorials and primers that help R users understand today’s AI stack in practice: foundation models, embeddings, vector search, provider and model selection, cost and latency trade-offs, local versus hosted models, and how modern AI fits alongside classical machine learning in R.\nLLM Engineering in R\nSessions on building reliable LLM workflows in R, including structured outputs, tool and function calling, retrieval, prompt and context design, batching, caching, file and image inputs, and hybrid R/Python patterns.\nAgents, MCP, and Tool Ecosystems\nTalks on agentic workflows in R: MCP servers and clients, multi-agent orchestration, skills, memory, tool registries, package-aware assistants, and hybrid architectures that keep R at the center of the workflow.\nAI-Assisted R Development and Coding Workflows\nHow AI is changing R development: code generation, refactoring, debugging, documentation, test creation, review, migration, package maintenance, legacy-code modernization, and IDE-native assistance.\nMachine Learning, Deep Learning, and Multimodal AI in R\nNot every AI workflow is an LLM. This track covers tabular ML, forecasting, causal ML, tidymodels, torch, geospatial deep learning, computer vision, multimodal pipelines, and other predictive workflows where R remains strong.\nAI-Powered Data Products and Conversational Analytics\nBuilding chat-enabled Shiny apps, analyst copilots, natural-language dashboards, reactive data interfaces, and human-in-the-loop tools that turn questions into auditable analysis and visual output.\nEvaluation, Observability, Responsible AI, and Governance\nHow to evaluate AI systems in R, compare performance, cost, and latency, instrument applications, manage prompt and tool regressions, document behavior, and address privacy, reproducibility, bias, fairness, and regulatory expectations.\nProduction AI and Industry Case Studies\nFrameworks, architectures, and case studies for shipping AI with R in real organizations: secure deployment, private or managed models, enterprise platforms, monitoring, cost control, procurement constraints, and lessons learned in healthcare, pharma, finance, marketing, manufacturing, research, and the public sector."
   },
   {
     "objectID": "cfp.html#formats",
