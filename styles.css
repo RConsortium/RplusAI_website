@@ -1,0 +1,21 @@
+/* R+AI brand mustard (hex logo fill) */
+:root {
+  --rai-mustard: #D09028;
+  --rai-mustard-hover: #B87C1F;
+}
+
+.btn-rai-mustard,
+button.btn-rai-mustard {
+  background-color: var(--rai-mustard) !important;
+  border-color: var(--rai-mustard) !important;
+  color: #fff !important;
+}
+
+.btn-rai-mustard:hover,
+button.btn-rai-mustard:hover,
+.btn-rai-mustard:focus,
+button.btn-rai-mustard:focus {
+  background-color: var(--rai-mustard-hover) !important;
+  border-color: var(--rai-mustard-hover) !important;
+  color: #fff !important;
+}
