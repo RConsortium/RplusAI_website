@@ -11,7 +11,7 @@ Join us at **R+AI 2026**, the R Consortium conference dedicated to the open-sour
 
 Lend your voice to the community. We want to hear about your experience and specific workflows—from machine learning and LLMs in R, to GenAI tooling, industry deployments, and responsible AI research.
 
-<button class="btn btn-primary" onclick="window.location.href='cfp.qmd'">
+<button class="btn btn-rai-mustard" onclick="window.location.href='cfp.qmd'">
   **View the Call for Proposals**
 </button>
 
