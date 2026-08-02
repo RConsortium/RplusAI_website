@@ -4,6 +4,15 @@
   --rai-mustard-hover: #B87C1F;
 }
 
+a {
+  color: var(--rai-mustard);
+}
+
+a:hover,
+a:focus {
+  color: var(--rai-mustard-hover);
+}
+
 .btn-rai-mustard,
 button.btn-rai-mustard {
   background-color: var(--rai-mustard) !important;
