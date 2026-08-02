@@ -7,13 +7,9 @@ page-layout: article
 
 Join us at **R+AI 2026**, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence.
 
-## [Call for Proposals — Now Open](cfp.qmd)
-
 Lend your voice to the community. We want to hear about your experience and specific workflows—from machine learning and LLMs in R, to GenAI tooling, industry deployments, and responsible AI research.
 
-<button class="btn btn-rai-mustard" onclick="window.location.href='cfp.qmd'">
-  **View the Call for Proposals**
-</button>
+[Call for Proposals — Now Open](cfp.qmd){.btn .btn-rai-mustard role="button"}
 
 ## About the conference
 
