@@ -8,6 +8,8 @@ Survey responses will help shape future R Consortium webinars, working groups, e
 
 As a thank you for participating, respondents who choose to provide their email address will receive early access to the survey results and community analysis before they are presented publicly. We hope the findings will help R users better understand emerging trends, tools, and priorities across the R + AI ecosystem.
 
-The survey takes approximately 7–10 minutes to complete.
+The survey takes approximately 7–10 minutes to complete, and respondents who share an email get early access to the results. Please join the survey, we really value your input!
+
+The survey is accepting your responses until September 4, 2026.
 
 [Take the Survey](https://forms.gle/PLUHxnbbTVMES2Lj8){.btn .btn-rai-mustard role="button"}
