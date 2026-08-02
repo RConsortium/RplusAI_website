@@ -1,0 +1,13 @@
+---
+title: "R + AI Community Needs Survey: Tools, Trust, Reproducibility, and Real-World Workflows"
+---
+
+The R community is rapidly exploring new ways to use AI for programming, statistical analysis, reproducible research, and production workflows. To help understand where the community is today and tomorrow, R Consortium is conducting this short survey in advance of the R+AI 2026 event, which will be held the second week of November 2026.
+
+Survey responses will help shape future R Consortium webinars, working groups, educational resources, and R+AI programming.
+
+As a thank you for participating, respondents who choose to provide their email address will receive early access to the survey results and community analysis before they are presented publicly. We hope the findings will help R users better understand emerging trends, tools, and priorities across the R + AI ecosystem.
+
+The survey takes approximately 7–10 minutes to complete.
+
+[Take the Survey](https://forms.gle/PLUHxnbbTVMES2Lj8){.btn .btn-rai-mustard role="button"}
