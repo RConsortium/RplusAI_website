@@ -18,9 +18,31 @@ The Call for Proposals for **R+AI 2026** is now open. We want to hear about your
 - Notifications: TBD  
 - Conference: TBD  
 
-## Example Technical Areas from R+AI 2025
+## R+AI 2026 Call for Proposals: Technical Areas
 
-![](images/RplusAI-CFP-Topics.png)
+**Foundations of Modern AI for R Users**  
+Tutorials and primers that help R users understand today’s AI stack in practice: foundation models, embeddings, vector search, provider and model selection, cost and latency trade-offs, local versus hosted models, and how modern AI fits alongside classical machine learning in R.
+
+**LLM Engineering in R**  
+Sessions on building reliable LLM workflows in R, including structured outputs, tool and function calling, retrieval, prompt and context design, batching, caching, file and image inputs, and hybrid R/Python patterns.
+
+**Agents, MCP, and Tool Ecosystems**  
+Talks on agentic workflows in R: MCP servers and clients, multi-agent orchestration, skills, memory, tool registries, package-aware assistants, and hybrid architectures that keep R at the center of the workflow.
+
+**AI-Assisted R Development and Coding Workflows**  
+How AI is changing R development: code generation, refactoring, debugging, documentation, test creation, review, migration, package maintenance, legacy-code modernization, and IDE-native assistance.
+
+**Machine Learning, Deep Learning, and Multimodal AI in R**  
+Not every AI workflow is an LLM. This track covers tabular ML, forecasting, causal ML, tidymodels, torch, geospatial deep learning, computer vision, multimodal pipelines, and other predictive workflows where R remains strong.
+
+**AI-Powered Data Products and Conversational Analytics**  
+Building chat-enabled Shiny apps, analyst copilots, natural-language dashboards, reactive data interfaces, and human-in-the-loop tools that turn questions into auditable analysis and visual output.
+
+**Evaluation, Observability, Responsible AI, and Governance**  
+How to evaluate AI systems in R, compare performance, cost, and latency, instrument applications, manage prompt and tool regressions, document behavior, and address privacy, reproducibility, bias, fairness, and regulatory expectations.
+
+**Production AI and Industry Case Studies**  
+Frameworks, architectures, and case studies for shipping AI with R in real organizations: secure deployment, private or managed models, enterprise platforms, monitoring, cost control, procurement constraints, and lessons learned in healthcare, pharma, finance, marketing, manufacturing, research, and the public sector.
 
 ## Formats
 
