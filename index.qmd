@@ -17,6 +17,16 @@ R+AI brings together practitioners, researchers, and industry teams for talks, l
 
 Conference dates and registration details will be announced soon.
 
+## R + AI Community Needs Survey
+
+Where is the R community on AI today, and where is it headed? Take this short survey on tools, trust, reproducibility, and real-world workflows. Your responses will help shape R Consortium webinars, working groups, resources, and R+AI 2026 programming.
+
+The survey is accepting your responses until September 4, 2026. Please don't wait, we'd really like your input!
+
+It takes about 7–10 minutes, and respondents who share an email get early access to the results.
+
+[Learn more and take the survey](survey.qmd){.btn .btn-rai-mustard role="button"}
+
 ## Past Events
 
 See the inaugural [R+AI 2025](Events.qmd) program, abstracts, and recordings archive.
