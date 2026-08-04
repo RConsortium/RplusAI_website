@@ -3,11 +3,13 @@ title: "R+AI 2026"
 page-layout: article
 ---
 
-![](images/RplusAI-CFP-banner-2026.png)
+![](images/rplusai-main-images-with-dates.png)
 
 Join us at **R+AI 2026**, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence.
 
-Lend your voice to the community. We want to hear about your experience and specific workflows—from machine learning and LLMs in R, to GenAI tooling, industry deployments, and responsible AI research.
+This year, R+AI is being held November 10-11, 2026.
+
+Lend your voice to the community! We want to hear about your experience and specific workflows—from machine learning and LLMs in R, to GenAI tooling, industry deployments, and responsible AI research.
 
 [Call for Proposals — Now Open](cfp.qmd){.btn .btn-rai-mustard role="button"}
 
