@@ -12,8 +12,8 @@ R+AI 2026 is an R Consortium event focused on artificial intelligence with R. Th
 
 ## Quick Facts
 
-**Dates:** TBD  
-**Location:** TBD  
+**Dates:** November 10-11, 2026  
+**Location:** 100% online  
 **CFP:** [Now open](cfp.qmd)  
 **Community:** Speakers participate in live Q&A  
 **Recordings:** Talks will be recorded  
