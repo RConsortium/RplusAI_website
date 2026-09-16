@@ -11,6 +11,8 @@ website:
     left:
       - text: About
         href: about.qmd
+      - text: Registration
+        href: registration.qmd
       - text: Call for Proposals
         href: cfp.qmd
       - text: Community Survey
