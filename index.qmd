@@ -3,21 +3,21 @@ title: "R+AI 2026"
 page-layout: article
 ---
 
-![](images/rplusai-main-images-with-dates.png)
+![](images/rplusai-registration-now-open.jpg)
 
 Join us at **R+AI 2026**, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence.
 
 This year, R+AI is being held November 10-11, 2026.
 
-Lend your voice to the community! We want to hear about your experience and specific workflows—from machine learning and LLMs in R, to GenAI tooling, industry deployments, and responsible AI research.
+Lend your voice to the community! We want to hear about your experience and specific workflows—from machine learning and large language models in R, to AI-assisted coding tools, industry deployments, and responsible AI research.
 
-[Call for Proposals — Now Open](cfp.qmd){.btn .btn-rai-mustard role="button"}
+[Register now!](https://events.zoom.us/ev/AvKPIaFGx9jwfTQyiDQcLmRWjmoDg4b4O20UQLssgTvlWDoXuMh5~AvDbrQHgBmJBUNpTBSMDUTQVfVen6k7w_xlMXZremUKDubDA3Q9AQ7-FRQ){.btn .btn-rai-mustard .btn-rai-lg role="button"}
 
 ## About the conference
 
 R+AI brings together practitioners, researchers, and industry teams for talks, lightning talks, workshops, and panels designed to educate, connect, and empower R users at every level.
 
-Conference dates and registration details will be announced soon.
+Conference dates are November 10-11, 2026. Registration is now open.
 
 ## R + AI Community Needs Survey
 
