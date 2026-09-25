@@ -22,13 +22,13 @@ R+AI 2026 is an R Consortium event focused on artificial intelligence with R. Th
 
 ## Registration Pricing
 
-The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.
+The following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. Early bird rates apply until October 12, 2026. All prices are in U.S. dollars.
 
-| Category | Price |
-| --- | --- |
-| Students | $25 |
-| Academic / Non-profit | $50 |
-| Industry | $70 |
+| Category | Early Bird (until Oct 12) | Price |
+| --- | --- | --- |
+| Students | $15 | $30 |
+| Academic / Non-profit | $35 | $50 |
+| Industry | $45 | $70 |
 
 [Register now!](https://events.zoom.us/ev/AvKPIaFGx9jwfTQyiDQcLmRWjmoDg4b4O20UQLssgTvlWDoXuMh5~AvDbrQHgBmJBUNpTBSMDUTQVfVen6k7w_xlMXZremUKDubDA3Q9AQ7-FRQ){.btn .btn-rai-mustard .btn-rai-lg role="button"}
 

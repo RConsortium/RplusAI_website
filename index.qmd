@@ -3,13 +3,15 @@ title: "R+AI 2026"
 page-layout: article
 ---
 
-![](images/rplusai-registration-now-open.jpg)
+![](images/rplusai-early-bird.jpg)
 
 Join us at **R+AI 2026**, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence.
 
 This year, R+AI is being held November 10-11, 2026.
 
 Lend your voice to the community! We want to hear about your experience and specific workflows—from machine learning and large language models in R, to AI-assisted coding tools, industry deployments, and responsible AI research.
+
+Early bird pricing is available until October 12: 50% off for students, and over 30% off for academia and industry!
 
 [Register now!](https://events.zoom.us/ev/AvKPIaFGx9jwfTQyiDQcLmRWjmoDg4b4O20UQLssgTvlWDoXuMh5~AvDbrQHgBmJBUNpTBSMDUTQVfVen6k7w_xlMXZremUKDubDA3Q9AQ7-FRQ){.btn .btn-rai-mustard .btn-rai-lg role="button"}
 
