@@ -1,34 +1,38 @@
 ---
-title: "R+AI 2025 Program"
+title: "R+AI 2026 Program"
 ---
 
-## Day 1: Wednesday, November 12, 2025
+## Day 1: Tuesday, November 10, 2026
 
 All times Eastern
 
 | Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
 |------------|----------|----------|---------------|----------------------------------|
-| 10:00 AM | 10:40 AM | 40 mins | [Keynote: Keeping LLMs in Their Lane: Focused AI for Data Science and Research](Abstracts.qmd#joe-cheng) | Joe Cheng, CTO, Posit |
-| 10:45 AM | 11:20 AM | 35 mins | [Me, Myself, and Claude](Abstracts.qmd#jasmine-daly) | Jasmine Daly, Principal Consultant & Founder, Daly Analytics |
-| 11:20 AM | 11:55 AM | 35 mins | [Reviving Forgotten Code with LLMs](Abstracts.qmd#jonathan-pearce) | Jonathan Pearce, Data Scientist, Lightspeed Commerce |
-| 11:55 AM | 12:30 PM | 35 mins | [Tools for LLMs and Humans who use R](Abstracts.qmd#garrick-aden-buie) | Garrick Aden-Buie, Software Engineer, Posit |
-| 12:30 PM | 1:05 PM | 35 mins | [Building a Better R AI Assistant: A Multi-Agent Approach](Abstracts.qmd#pawel-rucki) | Pawel Rucki, Principal Data Scientist, Roche |
-| 1:05 PM | 1:40 PM | 35 mins | [mini007 - A Lightweight Framework for Multi-Agent Orchestration in R](Abstracts.qmd#mohamed-el-fodil-ihaddaden) | Mohamed El Fodil Ihaddaden, Analytics Engineer, HDI Global SE |
-| 1:40 PM | 2:15 PM | 35 mins | [Analyzing LLM Evaluations](Abstracts.qmd#max-kuhn) | Max Kuhn, Software Engineer, Posit PBC |
-| 2:15 PM | 2:50 PM | 35 mins | [Biomedical ontology dictionary creation with embeddings and local LLMs](Abstracts.qmd#thomas-charlon) | Thomas Charlon, Research Associate, Harvard Medical School |
-| 2:50 PM | 3:25 PM | 35 mins | [Brand your docs, apps, and ggplots using LLMs](Abstracts.qmd#umair-durani) | Umair Durrani, PhD, Data Scientist, Presage Group Inc. |
+| 8:00 AM | 8:45 AM | 45 mins | [Opening Keynote](Abstracts.qmd#andrew-heiss) | Andrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar |
+| 8:50 AM | 9:25 AM | 35 mins | [From Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era](Abstracts.qmd#sahana-prasad) | Sahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services |
+| 9:30 AM | 9:45 AM | 15 mins | [Lightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.](Abstracts.qmd#diana-pholo) | Diana Pholo, Machine Learning Data Scientist (Research), South African Revenue Service (SARS) |
+| 10:05 AM | 10:40 AM | 35 mins | [50 lines of code to rebuild Claude Code in R](Abstracts.qmd#joseph-barbier) | Joseph Barbier, Yellow Sunflower |
+| 10:45 AM | 11:20 AM | 35 mins | [From Prompts to Pipelines: Building Auditable Human–AI Workflows for Evidence Synthesis in R](Abstracts.qmd#maciej-cabanski) | Maciej Cabanski, Data Analysis and R Specialist |
+| 12:05 PM | 12:40 PM | 35 mins | [Turtles All the Way Down: Recursive Language Models in R](Abstracts.qmd#troy-hernandez) | Troy Hernandez, Founder and CEO, cornball.ai |
+| 12:45 PM | 1:20 PM | 35 mins | [Self-Documenting Shiny Applications with GitHub Actions, ChatGPT, and Playwright MCP](Abstracts.qmd#ashley-geldmeier) | Ashley Geldmeier, Data Scientist I, ACES |
+| 1:25 PM | 1:40 PM | 15 mins | [Lightning talk: Ten Agents, 8GB of RAM, and Ten Dollars a Month](Abstracts.qmd#kerrigan-baron) | Kerrigan Baron, CTO & Co-Founder, Fidget Labs B.V. |
+| 1:45 PM | 2:20 PM | 35 mins | [Agentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R](Abstracts.qmd#imad-el-badisy) | Imad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI) |
+| 3:00 PM | 3:35 PM | 35 mins | [Utilizing Reproducible Agents in RStudio - A Researcher's Toolkit](Abstracts.qmd#nykko-vitali) | Nykko Vitali, PhD Student, Department of Psychology, Harvard University |
+| 3:40 PM | 4:40 PM | 1 hour | [Workshop: Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper](workshops.qmd#where-does-ai-fit) | Ileana Saenz, R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon; Doug Kelkhoff, Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab |
 
-## Day 2: Thursday, November 13, 2025
+## Day 2: Wednesday, November 11, 2026
 
 All times Eastern
 
 | Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
 |------------|----------|----------|---------------|----------------------------------|
-| 10:00 AM | 10:35 AM | 35 mins | [Introducing geodl: An R package for geospatial semantic segmentation](Abstracts.qmd#aaron-maxwell) | Aaron Maxwell, Associate Professor, West Virginia University |
-| 10:35 AM | 11:10 AM | 35 mins | [How deep learning helps build results that beat prior records](Abstracts.qmd#russ-conte) | Russ Conte |
-| 11:10 AM | 11:45 AM | 35 mins | [Gradient Boosting Machines (GBMs) in the Age of LLMs and ChatGPT](Abstracts.qmd#szilard-pafka) | Szilard Pafka, PhD, Chief Scientist, Epoch |
-| 11:45 AM | 12:20 PM | 35 mins | [Tracking the Evolution of R and Python Tools for GenAI](Abstracts.qmd#xu-fei) | Xu Fei, Senior Solutions Engineer, A2-Ai |
-| 12:20 PM | 12:55 PM | 35 mins | [kuzco \| Computer Vision made easy](Abstracts.qmd#frank-hull) | Frank Hull, Director of Data Science & Analytics |
-| 12:55 PM | 1:30 PM | 35 mins | [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation](Abstracts.qmd#troy-hernandez) | Troy Hernandez, PhD, Founder, cornball.ai |
-| 1:30 PM | 2:05 PM | 35 mins | [R+AI: Use RAG from your database to gain insights into the R Consortium](Abstracts.qmd#mark-hornick-sherry-lamonica) | Mark Hornick, Senior Director, Oracle Machine Learning; Sherry LaMonica, Consulting MTS, Oracle Machine Learning |
-| 2:20 PM | 4:20 PM | 2 hours | [Workshop: From Prompts to Agents: Building & Evaluating R + LLM Workflows](workshops.qmd#from-prompts-to-agents) | Devin Pastoor, Chief Technology and Product Officer, A2-AI; Xu Fei, Senior Solutions Engineer, A2-AI; Aathira Anil Kumar, Software Engineer, A2-AI |
+| 8:00 AM | 8:35 AM | 35 mins | [Enterprise AI Governance and Secure Grounding: Privacy, Zero Trust, and Observability in Agentic AI Systems](Abstracts.qmd#karthik-chandrasekaran) | Karthik Chandrasekaran, Principal Engineering Manager, Microsoft |
+| 8:40 AM | 9:15 AM | 35 mins | [R-Native Private AI for Sensitive Data: Secure Analysis and Code Modernization](Abstracts.qmd#lovekumar-patel) | Lovekumar Patel, Delivery Manager, Data & AI Solutions, ProCogia; Andey Nunes-Brewster, Data Interoperability Coordinator, Oregon Health Authority |
+| 9:20 AM | 9:55 AM | 35 mins | [SurvSure: Building an Evidence-Grounded, Verified AI Copilot for Survival Analysis in R Shiny](Abstracts.qmd#zahra-esfandiar) | Zahra Esfandiar, Strategic Analysis Specialist, Saman Electronic Payment (SEP) |
+| 10:15 AM | 10:30 AM | 15 mins | [Lightning talk: Standardizing Molecular Diagnostic Metadata: An Automated Workflow Mapping FDA-Cleared NAAT Assays to Pathogen Taxonomy](Abstracts.qmd#manuel-duval) | Manuel Duval, Scientist, double-strand LLC |
+| 10:35 AM | 11:10 AM | 35 mins | [Two Languages, One Conversation: An LLM-Powered R Shiny App served by a Python API](Abstracts.qmd#michael-thomas) | Michael Thomas, Chief Data Scientist, Ketchbrook Analytics |
+| 11:55 AM | 12:30 PM | 35 mins | [anvl - Accelerated array computing for R](Abstracts.qmd#sebastian-fischer) | Sebastian Fischer, PhD Student, LMU Munich, Munich Center for Machine Learning (MCML) |
+| 12:35 PM | 1:35 PM | 1 hour | [Tutorial: From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform](workshops.qmd#from-lab-to-production) | Chanin Nantasenamat, PhD, Lead Developer Advocate, Snowflake |
+| 1:55 PM | 2:30 PM | 35 mins | [Keep your R workflow in the big AI picture](Abstracts.qmd#marcin-dubel) | Marcin Dubel, Head of Technology, Appsilon |
+| 2:35 PM | 3:10 PM | 35 mins | [From Experimentation to Trusted Production: A Practical Framework for R+AI in Regulated Industries](Abstracts.qmd#nammn-joshii) | Nammn Joshii, Director, AI Innovation and Delivery, ProCogia; Siddharth Maheshwari, Senior Manager, Data & AI Solutions, ProCogia |
+| 3:15 PM | 4:00 PM | 45 mins | [Closing Keynote](Abstracts.qmd#mine-cetinkaya-rundel) | Mine Çetinkaya-Rundel, Professor of the Practice at Duke University & Developer Educator at Posit, PBC |

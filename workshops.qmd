@@ -1,26 +1,36 @@
 ---
-title: "R+AI 2025 Workshop"
+title: "R+AI 2026 Workshops"
 ---
 
-<div id="from-prompts-to-agents"></div>
-
-## From Prompts to Agents: Building & Evaluating R + LLM Workflows
+## Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper {#where-does-ai-fit}
 
 :::::: columns
 ::: {.column width="45%"}
 
-### Description
-
-This hands-on workshop is a fast-track for R users who are new to generative AI. We'll start with reliable prompting patterns in R, then add more context, tool calls, and agentic orchestration to automate multi-step tasks. Along the way we'll cover tokens & context windows, prompt engineering best practices, model differences, safety basics, testing/QA, and lightweight testing/QC suitable for regulated pharma environments. Demos will feature packages such as ellmer and btw, alongside a small set of generic utilities for HTTP calls, validation, and logging (final package choices may vary). All code and slides will be open-sourced. Participants leave with runnable R scripts that covers a simple agentic workflow plus an evaluation pipeline they can adapt to their teams.
-
-### Target Audience & Prerequisites
-
-R analysts/scientists/engineers comfortable with data frames and basic scripting. No prior ML/AI required.
-
 ### Date & Time
 
-Thursday, November 13, 2025  
-2:20 PM - 4:20 PM Eastern (2 hours)
+Tuesday, November 10, 2026  
+3:40 PM - 4:40 PM Eastern (1 hour)
+
+**Format:** Live workshop
+
+### Description
+
+The R Validation Hub’s risk-based framework – evaluating R packages on purpose, maintenance practices, community usage, and testing – has become foundational for using R in regulated submissions. At the same time AI tooling has matured enough that some consider it is a plausible candidate for helping in some tasks such as assisting assessors in reviewing maintenance signals at scale, drafting or evaluating remediation tests, flagging changes across package versions.
+
+AI also raises an issue in return: how should risk assessment treat packages or contributions that are themselves AI-generated or AI-assisted?
+
+This workshop is designed to gather people with hands-on experience in R package validation, regulated environments, and applied AI tooling for a working discussion.
+
+Where AI can realistically help within the existing framework
+
+Where AI-assisted evaluation introduces new risks that would themselves need validation
+
+What a minimal, practical pilot of AI- assisted risk assessment could look like
+
+Session notes and points of consensus will be captured and used as the starting point for a community whitepaper
+
+**Topic:** Evaluation, Observability, Responsible AI, and Governance
 
 :::
 
@@ -30,30 +40,76 @@ Thursday, November 13, 2025
 
 ::: {.column width="45%"}
 
-### Devin Pastoor, PhD
+### Ileana Saenz
 
-**Chief Technology and Product Officer, A2-AI**
+**R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon**
 
-![](images/devin_pastoor.png){style="border-radius: 50%; width: 300px;"}
+![](images/ileana-saenz-soto.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; object-position: center top;"}
 
-As CTPO of A2-Ai, Devin works with clients to deliver end-to-end solutions that support quantitative decision-making. Devin specializes in bridging the unique characteristics of each client's IT structure with the needs of the scientific team. Some of his focuses for clients include providing strategies to migrate from existing tools to more modern cloud-based workflows, and building prototype tools and dashboards to solve business challenges. Before joining A2-Ai, Devin worked as a principal solutions engineer to help dozens of organizations ranging from the FDA to small biotech and device manufacturers to develop and implement
+Ileana is the Strategic Platform Lead for Life Sciences at Appsilon, where she guides the direction of the platform's team offering for the industry. She brings more than 8 years in pharma and biotech and over 14 years of using R. As Vice Chair of the R Validation Hub, she supports the responsible, risk-based use of open-source software in regulated settings. Ileana believes science and research deserve environments and infrastructure that match their needs for reproducibility, traceability and innovation, and that open-source solutions are a massive part of getting there. Above all, she is passionate about giving researchers tools they can trust, build on and enjoy using.
 
-### Xu Fei
+[LinkedIn](https://www.linkedin.com/in/ileana-saenz-soto/)
 
-**Senior Solutions Engineer, A2-AI**
+### Doug Kelkhoff
 
-![](images/xu_fei.png){style="border-radius: 50%; width: 300px;"}
+**Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab**
 
-Xu Fei is a Senior Solutions Engineer at A2-Ai, where he builds AI-powered tools and infrastructure for pharmaceutical research workflows. Working across R and Python stacks, he has developed LLM-enabled applications ranging from interactive chatbots to MCP server implementations, with a focus on making GenAI accessible and practical for scientific computing teams. His work bridges enterprise DevOps, cloud APIs (AWS Bedrock), and domain-specific R packages to help scientists integrate AI capabilities into their existing workflows.
+![](images/doug-kelkhoff.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
 
-### Aathira Anil Kumar
+Doug brings 10 years of Pharma and open source experience, with a focus on the human and process questions that steer clinical delivery. He Chairs the R Validation Hub as part of the R Consortium, which advocates for responsible risk-based adoption of open source tools, which invites new questions in the era of AI regarding how we express trust in software. Doug is also the Product Lead for Life Science at Domino, where he applies this philosophy of trust, reproducibility and traceability to deliver a rigorous platform for GxP workloads. Above all, Doug’s passionate about fostering open-source software that empowers people, be that through collaboration, decision-making, scientific rigor, reproducibility or even just to make analysis fun.
 
-**Software Engineer, A2-AI**
-
-![](images/aathira_anil_kumar.png){style="border-radius: 50%; width: 300px;"}
-
-Aathira Anil Kumar is an AI Engineer at A2-AI and a recent graduate of the University of Georgia, where she earned her Master's in Artificial Intelligence. With over three years of experience researching and building with AI, she has worked with financial and semiconductor data and now focuses on developing generative AI tools for the pharma world—bridging R and Python ecosystems through open-source innovation and applied research.
+[GitHub](https://github.com/dgkf) · [Mastodon](https://fosstodon.org/@dgkf) · [LinkedIn](https://www.linkedin.com/in/doug-kelkhoff/)
 
 :::
 ::::::
 
+---
+
+<div id="from-lab-to-production"></div>
+
+## From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform
+
+:::::: columns
+::: {.column width="45%"}
+
+### Date & Time
+
+Wednesday, November 11, 2026  
+12:35 PM - 1:35 PM Eastern (1 hour)
+
+**Format:** Live tutorial
+
+### Description
+
+Most machine learning models built in R for drug discovery never leave the researcher's laptop. This talk is a case study of taking R-based models from exploratory lab code to a governed, production AI application on an enterprise data platform.
+
+At the center is the R pipeline: reproducible data preprocessing, molecular feature engineering, model training, and scoring, packaged to run reliably against enterprise data. I'll show how this pipeline is version-controlled, containerized, and served behind a Streamlit frontend so scientists can query predictions without touching code.
+
+I'll also cover the realities of shipping AI in a regulated domain: secure deployment, private or managed models that keep proprietary chemistry in-house, production monitoring, and cost control at scale. Attendees will leave with a concrete blueprint for operationalizing R machine learning, plus the practices that make R pipelines reproducible, auditable, and trusted in a regulated environment.
+
+**Topic:** Production AI and Industry Case Studies
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+
+### Chanin Nantasenamat, PhD
+
+**Lead Developer Advocate, Snowflake**
+
+![](images/chanin-nantasenamat.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+
+Chanin Nantasenamat, PhD is a Lead Developer Advocate at Snowflake, where he creates educational content on building data and AI applications with Streamlit and Snowflake. He recently co-developed the Coursera course "Fast Prototyping of GenAI Apps with Streamlit," part of a DeepLearning.AI × Snowflake collaboration empowering developers to build GenAI applications. Chanin launched the social learning initiatives 30 Days of Streamlit and 30 Days of AI, which had helped introduced developers on building data and AI apps.
+
+Before entering tech, Chanin was a full Professor of Bioinformatics, where he applied Python and R to computational drug discovery. He published extensively on machine learning research in this field, authoring 141 research articles, 21 review articles, and 6 book chapters. He has also presented at the R User Group at the Harvard Data Science Initiative.
+
+Chanin is the creator of the Data Professor YouTube channel, with an audience of 220,000 subscribers. His 400+ videos (including dedicated playlists on R 101, R Data Science, and R Shiny) have earned over 10 million views. He has also created tutorials for the freeCodeCamp channel that amassed more than 2 million views. Together, his work bridges rigorous research, hands-on teaching, and a thriving open-source community.
+
+[LinkedIn](https://www.linkedin.com/in/chanin-nantasenamat/)
+
+:::
+::::::
