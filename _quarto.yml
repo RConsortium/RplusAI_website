@@ -13,10 +13,16 @@ website:
         href: about.qmd
       - text: Registration
         href: registration.qmd
-      - text: Call for Proposals
-        href: cfp.qmd
+      - text: Program
+        href: program.qmd
+      - text: Abstracts
+        href: Abstracts.qmd
+      - text: Workshops
+        href: workshops.qmd
       - text: Community Survey
         href: survey.qmd
+      - text: Call for Proposals
+        href: cfp.qmd
       - text: Past Events
         href: Events.qmd
       - text: Code of Conduct
