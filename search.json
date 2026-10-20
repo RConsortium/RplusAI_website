@@ -1,166 +1,5 @@
 [
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration for R+AI 2026 is now open.\nDates: November 10-11, 2026\nLocation: 100% online\nTime Zone: Schedule is US Eastern Time Zone\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nRegister now!"
-  },
-  {
-    "objectID": "registration.html#registration-pricing",
-    "href": "registration.html#registration-pricing",
-    "title": "Registration",
-    "section": "Registration Pricing",
-    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$30\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
-  },
-  {
-    "objectID": "registration.html#sponsorships",
-    "href": "registration.html#sponsorships",
-    "title": "Registration",
-    "section": "Sponsorships",
-    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About R+AI",
-    "section": "",
-    "text": "R+AI 2026 is an R Consortium event focused on artificial intelligence with R. The program will include keynotes, talks, workshops, and community discussions."
-  },
-  {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About R+AI",
-    "section": "Goals",
-    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, large language models, and responsible AI.\nConnect the community through hands-on learning."
-  },
-  {
-    "objectID": "about.html#quick-facts",
-    "href": "about.html#quick-facts",
-    "title": "About R+AI",
-    "section": "Quick Facts",
-    "text": "Quick Facts\nDates: November 10-11, 2026\nLocation: 100% online\nCFP: Closed\nCommunity: Speakers participate in live Q&A\nRecordings: Talks will be recorded\nTime Zone: Schedule is US Eastern Time Zone\nPricing: Industry, Academia, and Student level ticketing are all available"
-  },
-  {
-    "objectID": "about.html#registration-pricing",
-    "href": "about.html#registration-pricing",
-    "title": "About R+AI",
-    "section": "Registration Pricing",
-    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$30\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70\n\n\n\nRegister now!"
-  },
-  {
-    "objectID": "about.html#past-events",
-    "href": "about.html#past-events",
-    "title": "About R+AI",
-    "section": "Past Events",
-    "text": "Past Events\nLooking for last year’s program? Visit Past Events for the R+AI 2025 archive."
-  },
-  {
-    "objectID": "about.html#sponsorships",
-    "href": "about.html#sponsorships",
-    "title": "About R+AI",
-    "section": "Sponsorships",
-    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
-  },
-  {
-    "objectID": "survey.html",
-    "href": "survey.html",
-    "title": "R + AI Community Needs Survey: Tools, Trust, Reproducibility, and Real-World Workflows",
-    "section": "",
-    "text": "The R community is rapidly exploring new ways to use AI for programming, statistical analysis, reproducible research, and production workflows. To help understand where the community is today and tomorrow, R Consortium is conducting this short survey in advance of the R+AI 2026 event, which will be held the second week of November 2026.\nSurvey responses will help shape future R Consortium webinars, working groups, educational resources, and R+AI programming.\nAs a thank you for participating, respondents who choose to provide their email address will receive early access to the survey results and community analysis before they are presented publicly. We hope the findings will help R users better understand emerging trends, tools, and priorities across the R + AI ecosystem.\nThe survey takes approximately 7–10 minutes to complete, and respondents who share an email get early access to the results. Please join the survey, we really value your input!\nTake the Survey"
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "R+AI 2026 Program",
-    "section": "",
-    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n8:00 AM\n8:45 AM\n45 mins\nOpening Keynote\nAndrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar\n\n\n8:50 AM\n9:25 AM\n35 mins\nFrom Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era\nSahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services\n\n\n9:30 AM\n9:45 AM\n15 mins\nLightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.\nDiana Pholo, Machine Learning Data Scientist (Research), South African Revenue Service (SARS)\n\n\n10:05 AM\n10:40 AM\n35 mins\n50 lines of code to rebuild Claude Code in R\nJoseph Barbier, Yellow Sunflower\n\n\n10:45 AM\n11:20 AM\n35 mins\nFrom Prompts to Pipelines: Building Auditable Human–AI Workflows for Evidence Synthesis in R\nMaciej Cabanski, Data Analysis and R Specialist\n\n\n12:05 PM\n12:40 PM\n35 mins\nTurtles All the Way Down: Recursive Language Models in R\nTroy Hernandez, Founder and CEO, cornball.ai\n\n\n12:45 PM\n1:20 PM\n35 mins\nSelf-Documenting Shiny Applications with GitHub Actions, ChatGPT, and Playwright MCP\nAshley Geldmeier, Data Scientist I, ACES\n\n\n1:25 PM\n1:40 PM\n15 mins\nLightning talk: Ten Agents, 8GB of RAM, and Ten Dollars a Month\nKerrigan Baron, CTO & Co-Founder, Fidget Labs B.V.\n\n\n1:45 PM\n2:20 PM\n35 mins\nAgentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R\nImad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI)\n\n\n3:00 PM\n3:35 PM\n35 mins\nUtilizing Reproducible Agents in RStudio - A Researcher’s Toolkit\nNykko Vitali, PhD Student, Department of Psychology, Harvard University\n\n\n3:40 PM\n4:40 PM\n1 hour\nWorkshop: Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper\nIleana Saenz, R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon; Doug Kelkhoff, Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab"
-  },
-  {
-    "objectID": "program.html#day-1-tuesday-november-10-2026",
-    "href": "program.html#day-1-tuesday-november-10-2026",
-    "title": "R+AI 2026 Program",
-    "section": "",
-    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n8:00 AM\n8:45 AM\n45 mins\nOpening Keynote\nAndrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar\n\n\n8:50 AM\n9:25 AM\n35 mins\nFrom Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era\nSahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services\n\n\n9:30 AM\n9:45 AM\n15 mins\nLightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.\nDiana Pholo, Machine Learning Data Scientist (Research), South African Revenue Service (SARS)\n\n\n10:05 AM\n10:40 AM\n35 mins\n50 lines of code to rebuild Claude Code in R\nJoseph Barbier, Yellow Sunflower\n\n\n10:45 AM\n11:20 AM\n35 mins\nFrom Prompts to Pipelines: Building Auditable Human–AI Workflows for Evidence Synthesis in R\nMaciej Cabanski, Data Analysis and R Specialist\n\n\n12:05 PM\n12:40 PM\n35 mins\nTurtles All the Way Down: Recursive Language Models in R\nTroy Hernandez, Founder and CEO, cornball.ai\n\n\n12:45 PM\n1:20 PM\n35 mins\nSelf-Documenting Shiny Applications with GitHub Actions, ChatGPT, and Playwright MCP\nAshley Geldmeier, Data Scientist I, ACES\n\n\n1:25 PM\n1:40 PM\n15 mins\nLightning talk: Ten Agents, 8GB of RAM, and Ten Dollars a Month\nKerrigan Baron, CTO & Co-Founder, Fidget Labs B.V.\n\n\n1:45 PM\n2:20 PM\n35 mins\nAgentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R\nImad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI)\n\n\n3:00 PM\n3:35 PM\n35 mins\nUtilizing Reproducible Agents in RStudio - A Researcher’s Toolkit\nNykko Vitali, PhD Student, Department of Psychology, Harvard University\n\n\n3:40 PM\n4:40 PM\n1 hour\nWorkshop: Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper\nIleana Saenz, R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon; Doug Kelkhoff, Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab"
-  },
-  {
-    "objectID": "program.html#day-2-wednesday-november-11-2026",
-    "href": "program.html#day-2-wednesday-november-11-2026",
-    "title": "R+AI 2026 Program",
-    "section": "Day 2: Wednesday, November 11, 2026",
-    "text": "Day 2: Wednesday, November 11, 2026\nAll times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n8:00 AM\n8:35 AM\n35 mins\nEnterprise AI Governance and Secure Grounding: Privacy, Zero Trust, and Observability in Agentic AI Systems\nKarthik Chandrasekaran, Principal Engineering Manager, Microsoft\n\n\n8:40 AM\n9:15 AM\n35 mins\nR-Native Private AI for Sensitive Data: Secure Analysis and Code Modernization\nLovekumar Patel, Delivery Manager, Data & AI Solutions, ProCogia; Andey Nunes-Brewster, Data Interoperability Coordinator, Oregon Health Authority\n\n\n9:20 AM\n9:55 AM\n35 mins\nSurvSure: Building an Evidence-Grounded, Verified AI Copilot for Survival Analysis in R Shiny\nZahra Esfandiar, Strategic Analysis Specialist, Saman Electronic Payment (SEP)\n\n\n10:15 AM\n10:30 AM\n15 mins\nLightning talk: Standardizing Molecular Diagnostic Metadata: An Automated Workflow Mapping FDA-Cleared NAAT Assays to Pathogen Taxonomy\nManuel Duval, Scientist, double-strand LLC\n\n\n10:35 AM\n11:10 AM\n35 mins\nTwo Languages, One Conversation: An LLM-Powered R Shiny App served by a Python API\nMichael Thomas, Chief Data Scientist, Ketchbrook Analytics\n\n\n11:55 AM\n12:30 PM\n35 mins\nanvl - Accelerated array computing for R\nSebastian Fischer, PhD Student, LMU Munich, Munich Center for Machine Learning (MCML)\n\n\n12:35 PM\n1:35 PM\n1 hour\nTutorial: From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform\nChanin Nantasenamat, PhD, Lead Developer Advocate, Snowflake\n\n\n1:55 PM\n2:30 PM\n35 mins\nKeep your R workflow in the big AI picture\nMarcin Dubel, Head of Technology, Appsilon\n\n\n2:35 PM\n3:10 PM\n35 mins\nFrom Experimentation to Trusted Production: A Practical Framework for R+AI in Regulated Industries\nNammn Joshii, Director, AI Innovation and Delivery, ProCogia; Siddharth Maheshwari, Senior Manager, Data & AI Solutions, ProCogia\n\n\n3:15 PM\n4:00 PM\n45 mins\nClosing Keynote\nMine Çetinkaya-Rundel, Professor of the Practice at Duke University & Developer Educator at Posit, PBC"
-  },
-  {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "R+AI 2026 Workshops",
-    "section": "",
-    "text": "Tuesday, November 10, 2026\n3:40 PM - 4:40 PM Eastern (1 hour)\nFormat: Live workshop\n\n\n\nThe R Validation Hub’s risk-based framework – evaluating R packages on purpose, maintenance practices, community usage, and testing – has become foundational for using R in regulated submissions. At the same time AI tooling has matured enough that some consider it is a plausible candidate for helping in some tasks such as assisting assessors in reviewing maintenance signals at scale, drafting or evaluating remediation tests, flagging changes across package versions.\nAI also raises an issue in return: how should risk assessment treat packages or contributions that are themselves AI-generated or AI-assisted?\nThis workshop is designed to gather people with hands-on experience in R package validation, regulated environments, and applied AI tooling for a working discussion.\nWhere AI can realistically help within the existing framework\nWhere AI-assisted evaluation introduces new risks that would themselves need validation\nWhat a minimal, practical pilot of AI- assisted risk assessment could look like\nSession notes and points of consensus will be captured and used as the starting point for a community whitepaper\nTopic: Evaluation, Observability, Responsible AI, and Governance\n\n\n\n\n\n\nR Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon\n\nIleana is the Strategic Platform Lead for Life Sciences at Appsilon, where she guides the direction of the platform’s team offering for the industry. She brings more than 8 years in pharma and biotech and over 14 years of using R. As Vice Chair of the R Validation Hub, she supports the responsible, risk-based use of open-source software in regulated settings. Ileana believes science and research deserve environments and infrastructure that match their needs for reproducibility, traceability and innovation, and that open-source solutions are a massive part of getting there. Above all, she is passionate about giving researchers tools they can trust, build on and enjoy using.\nLinkedIn\n\n\n\nChair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab\n\nDoug brings 10 years of Pharma and open source experience, with a focus on the human and process questions that steer clinical delivery. He Chairs the R Validation Hub as part of the R Consortium, which advocates for responsible risk-based adoption of open source tools, which invites new questions in the era of AI regarding how we express trust in software. Doug is also the Product Lead for Life Science at Domino, where he applies this philosophy of trust, reproducibility and traceability to deliver a rigorous platform for GxP workloads. Above all, Doug’s passionate about fostering open-source software that empowers people, be that through collaboration, decision-making, scientific rigor, reproducibility or even just to make analysis fun.\nGitHub · Mastodon · LinkedIn"
-  },
-  {
-    "objectID": "workshops.html#where-does-ai-fit",
-    "href": "workshops.html#where-does-ai-fit",
-    "title": "R+AI 2026 Workshops",
-    "section": "",
-    "text": "Tuesday, November 10, 2026\n3:40 PM - 4:40 PM Eastern (1 hour)\nFormat: Live workshop\n\n\n\nThe R Validation Hub’s risk-based framework – evaluating R packages on purpose, maintenance practices, community usage, and testing – has become foundational for using R in regulated submissions. At the same time AI tooling has matured enough that some consider it is a plausible candidate for helping in some tasks such as assisting assessors in reviewing maintenance signals at scale, drafting or evaluating remediation tests, flagging changes across package versions.\nAI also raises an issue in return: how should risk assessment treat packages or contributions that are themselves AI-generated or AI-assisted?\nThis workshop is designed to gather people with hands-on experience in R package validation, regulated environments, and applied AI tooling for a working discussion.\nWhere AI can realistically help within the existing framework\nWhere AI-assisted evaluation introduces new risks that would themselves need validation\nWhat a minimal, practical pilot of AI- assisted risk assessment could look like\nSession notes and points of consensus will be captured and used as the starting point for a community whitepaper\nTopic: Evaluation, Observability, Responsible AI, and Governance\n\n\n\n\n\n\nR Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon\n\nIleana is the Strategic Platform Lead for Life Sciences at Appsilon, where she guides the direction of the platform’s team offering for the industry. She brings more than 8 years in pharma and biotech and over 14 years of using R. As Vice Chair of the R Validation Hub, she supports the responsible, risk-based use of open-source software in regulated settings. Ileana believes science and research deserve environments and infrastructure that match their needs for reproducibility, traceability and innovation, and that open-source solutions are a massive part of getting there. Above all, she is passionate about giving researchers tools they can trust, build on and enjoy using.\nLinkedIn\n\n\n\nChair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab\n\nDoug brings 10 years of Pharma and open source experience, with a focus on the human and process questions that steer clinical delivery. He Chairs the R Validation Hub as part of the R Consortium, which advocates for responsible risk-based adoption of open source tools, which invites new questions in the era of AI regarding how we express trust in software. Doug is also the Product Lead for Life Science at Domino, where he applies this philosophy of trust, reproducibility and traceability to deliver a rigorous platform for GxP workloads. Above all, Doug’s passionate about fostering open-source software that empowers people, be that through collaboration, decision-making, scientific rigor, reproducibility or even just to make analysis fun.\nGitHub · Mastodon · LinkedIn"
-  },
-  {
-    "objectID": "workshops.html#from-lab-to-production-shipping-r-powered-drug-discovery-models-as-apps-on-an-enterprise-aidata-platform",
-    "href": "workshops.html#from-lab-to-production-shipping-r-powered-drug-discovery-models-as-apps-on-an-enterprise-aidata-platform",
-    "title": "R+AI 2026 Workshops",
-    "section": "From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform",
-    "text": "From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform\n\n\n\nDate & Time\nWednesday, November 11, 2026\n12:35 PM - 1:35 PM Eastern (1 hour)\nFormat: Live tutorial\n\n\nDescription\nMost machine learning models built in R for drug discovery never leave the researcher’s laptop. This talk is a case study of taking R-based models from exploratory lab code to a governed, production AI application on an enterprise data platform.\nAt the center is the R pipeline: reproducible data preprocessing, molecular feature engineering, model training, and scoring, packaged to run reliably against enterprise data. I’ll show how this pipeline is version-controlled, containerized, and served behind a Streamlit frontend so scientists can query predictions without touching code.\nI’ll also cover the realities of shipping AI in a regulated domain: secure deployment, private or managed models that keep proprietary chemistry in-house, production monitoring, and cost control at scale. Attendees will leave with a concrete blueprint for operationalizing R machine learning, plus the practices that make R pipelines reproducible, auditable, and trusted in a regulated environment.\nTopic: Production AI and Industry Case Studies\n\n\n\n\n\nChanin Nantasenamat, PhD\nLead Developer Advocate, Snowflake\n\nChanin Nantasenamat, PhD is a Lead Developer Advocate at Snowflake, where he creates educational content on building data and AI applications with Streamlit and Snowflake. He recently co-developed the Coursera course “Fast Prototyping of GenAI Apps with Streamlit,” part of a DeepLearning.AI × Snowflake collaboration empowering developers to build GenAI applications. Chanin launched the social learning initiatives 30 Days of Streamlit and 30 Days of AI, which had helped introduced developers on building data and AI apps.\nBefore entering tech, Chanin was a full Professor of Bioinformatics, where he applied Python and R to computational drug discovery. He published extensively on machine learning research in this field, authoring 141 research articles, 21 review articles, and 6 book chapters. He has also presented at the R User Group at the Harvard Data Science Initiative.\nChanin is the creator of the Data Professor YouTube channel, with an audience of 220,000 subscribers. His 400+ videos (including dedicated playlists on R 101, R Data Science, and R Shiny) have earned over 10 million views. He has also created tutorials for the freeCodeCamp channel that amassed more than 2 million views. Together, his work bridges rigorous research, hands-on teaching, and a thriving open-source community.\nLinkedIn"
-  },
-  {
-    "objectID": "cfp.html",
-    "href": "cfp.html",
-    "title": "Call for Proposals",
-    "section": "",
-    "text": "The Call for Proposals for R+AI 2026 is now closed. We wanted to hear about your experience and specific workflows at the intersection of R and AI—whether you’re just getting started with machine learning, experimenting with large language models in R, using AI tools to accelerate your code, deploying AI solutions in industry, or researching deep learning and responsible AI.\nThe deadline was September 7, 2026."
-  },
-  {
-    "objectID": "cfp.html#thanks-to-everyone-for-submitting",
-    "href": "cfp.html#thanks-to-everyone-for-submitting",
-    "title": "Call for Proposals",
-    "section": "",
-    "text": "The Call for Proposals for R+AI 2026 is now closed. We wanted to hear about your experience and specific workflows at the intersection of R and AI—whether you’re just getting started with machine learning, experimenting with large language models in R, using AI tools to accelerate your code, deploying AI solutions in industry, or researching deep learning and responsible AI.\nThe deadline was September 7, 2026."
-  },
-  {
-    "objectID": "cfp.html#key-dates",
-    "href": "cfp.html#key-dates",
-    "title": "Call for Proposals",
-    "section": "Key dates",
-    "text": "Key dates\n\nCFP closed: September 7, 2026\n\nConference: November 10-11, 2026"
-  },
-  {
-    "objectID": "cfp.html#rai-2026-call-for-proposals-technical-areas",
-    "href": "cfp.html#rai-2026-call-for-proposals-technical-areas",
-    "title": "Call for Proposals",
-    "section": "R+AI 2026 Call for Proposals: Technical Areas",
-    "text": "R+AI 2026 Call for Proposals: Technical Areas\nFoundations of Modern AI for R Users\nTutorials and primers that help R users understand today’s AI stack in practice: foundation models, embeddings, vector search, provider and model selection, cost and latency trade-offs, local versus hosted models, and how modern AI fits alongside classical machine learning in R.\nLLM Engineering in R\nSessions on building reliable LLM workflows in R, including structured outputs, tool and function calling, retrieval, prompt and context design, batching, caching, file and image inputs, and hybrid R/Python patterns.\nAgents, MCP, and Tool Ecosystems\nTalks on agentic workflows in R: MCP servers and clients, multi-agent orchestration, skills, memory, tool registries, package-aware assistants, and hybrid architectures that keep R at the center of the workflow.\nAI-Assisted R Development and Coding Workflows\nHow AI is changing R development: code generation, refactoring, debugging, documentation, test creation, review, migration, package maintenance, legacy-code modernization, and IDE-native assistance.\nMachine Learning, Deep Learning, and Multimodal AI in R\nNot every AI workflow is an LLM. This track covers tabular ML, forecasting, causal ML, tidymodels, torch, geospatial deep learning, computer vision, multimodal pipelines, and other predictive workflows where R remains strong.\nAI-Powered Data Products and Conversational Analytics\nBuilding chat-enabled Shiny apps, analyst copilots, natural-language dashboards, reactive data interfaces, and human-in-the-loop tools that turn questions into auditable analysis and visual output.\nEvaluation, Observability, Responsible AI, and Governance\nHow to evaluate AI systems in R, compare performance, cost, and latency, instrument applications, manage prompt and tool regressions, document behavior, and address privacy, reproducibility, bias, fairness, and regulatory expectations.\nProduction AI and Industry Case Studies\nFrameworks, architectures, and case studies for shipping AI with R in real organizations: secure deployment, private or managed models, enterprise platforms, monitoring, cost control, procurement constraints, and lessons learned in healthcare, pharma, finance, marketing, manufacturing, research, and the public sector."
-  },
-  {
-    "objectID": "cfp.html#formats",
-    "href": "cfp.html#formats",
-    "title": "Call for Proposals",
-    "section": "Formats",
-    "text": "Formats\n\nTalks (20–25 min)\n\nLightning talks (5–7 min)\n\nWorkshops (2–3 hours)\n\nPanels (45–60 min)"
-  },
-  {
-    "objectID": "cfp.html#important-notes",
-    "href": "cfp.html#important-notes",
-    "title": "Call for Proposals",
-    "section": "Important notes",
-    "text": "Important notes\nAll speakers are required to adhere to our Code of Conduct.\nTalks will be recorded and posted to the R Consortium YouTube channel."
-  },
-  {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Speaker lineup: Coming Soon.\nIf you would like to recommend a speaker, contact: TBD."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "R+AI 2026",
@@ -189,27 +28,6 @@
     "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
   },
   {
-    "objectID": "attend.html",
-    "href": "attend.html",
-    "title": "R+AI 2026",
-    "section": "",
-    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
-  },
-  {
-    "objectID": "attend.html#code-of-conduct",
-    "href": "attend.html#code-of-conduct",
-    "title": "R+AI 2026",
-    "section": "",
-    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
-  },
-  {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venue",
-    "section": "",
-    "text": "Venue details: Online.\n\nLocation: Online event\nTime zone: US Eastern Time (ET)\nTravel and lodging: TBD\nAccessibility: TBD"
-  },
-  {
     "objectID": "Events.html",
     "href": "Events.html",
     "title": "Past R+AI Conferences",
@@ -217,11 +35,25 @@
     "text": "R+AI 2025\n    Event Website\n    YouTube Playlist\n  \n  \n  \n  \n  \n    \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
     "section": "",
-    "text": "Schedule: Coming Soon.\nDates: Nov 12–13, 2025 Location: 100% Online Talks will be recorded Speakers participate in live Q&A Time zone: US Eastern Time\n\nDay 1: TBD\nDay 2: TBD"
+    "text": "Registration for R+AI 2026 is now open.\nDates: November 10-11, 2026\nLocation: 100% online\nTime Zone: Schedule is US Eastern Time Zone\nRecordings: Talks will be recorded\nCommunity: Speakers participate in live Q&A\nRegister now!"
+  },
+  {
+    "objectID": "registration.html#registration-pricing",
+    "href": "registration.html#registration-pricing",
+    "title": "Registration",
+    "section": "Registration Pricing",
+    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$30\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70"
+  },
+  {
+    "objectID": "registration.html#sponsorships",
+    "href": "registration.html#sponsorships",
+    "title": "Registration",
+    "section": "Sponsorships",
+    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
   },
   {
     "objectID": "Abstracts.html",
@@ -364,10 +196,178 @@
     "text": "Closing Keynote\nDate & Time: November 11 at 3:15 PM, Eastern\nFormat: Keynote (45 minutes)\n\nBio\nMine Çetinkaya-Rundel is Professor of the Practice of Statistical Science and the Director of Undergraduate Studies in the Department of Statistical Science, as well as an affiliated faculty member in the Computational Media, Arts, and Cultures program at Duke University. Her work is dedicated to advancing innovation in statistics and data science pedagogy, focusing particularly on computing, reproducible research, student-centered learning, and open-source education. She emphasizes integrating computation into the undergraduate statistics curriculum, employing reproducible research methodologies, and analyzing real and complex datasets.\nLinkedIn · Mastodon · Bluesky"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About R+AI",
+    "section": "",
+    "text": "R+AI 2026 is an R Consortium event focused on artificial intelligence with R. The program will include keynotes, talks, workshops, and community discussions."
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About R+AI",
+    "section": "Goals",
+    "text": "Goals\n\nShowcase practical AI with R across industries.\nShare advances in modeling, large language models, and responsible AI.\nConnect the community through hands-on learning."
+  },
+  {
+    "objectID": "about.html#quick-facts",
+    "href": "about.html#quick-facts",
+    "title": "About R+AI",
+    "section": "Quick Facts",
+    "text": "Quick Facts\nDates: November 10-11, 2026\nLocation: 100% online\nCFP: Closed\nCommunity: Speakers participate in live Q&A\nRecordings: Talks will be recorded\nTime Zone: Schedule is US Eastern Time Zone\nPricing: Industry, Academia, and Student level ticketing are all available"
+  },
+  {
+    "objectID": "about.html#registration-pricing",
+    "href": "about.html#registration-pricing",
+    "title": "About R+AI",
+    "section": "Registration Pricing",
+    "text": "Registration Pricing\nThe following table lists the registration fees for three categories of attendees: students, academics and members of non-profit organizations, and professionals employed in industry who do not have non-profit status. All prices are in U.S. dollars.\n\n\n\nCategory\nPrice\n\n\n\n\nStudents\n$30\n\n\nAcademic / Non-profit\n$50\n\n\nIndustry\n$70\n\n\n\nRegister now!"
+  },
+  {
+    "objectID": "about.html#past-events",
+    "href": "about.html#past-events",
+    "title": "About R+AI",
+    "section": "Past Events",
+    "text": "Past Events\nLooking for last year’s program? Visit Past Events for the R+AI 2025 archive."
+  },
+  {
+    "objectID": "about.html#sponsorships",
+    "href": "about.html#sponsorships",
+    "title": "About R+AI",
+    "section": "Sponsorships",
+    "text": "Sponsorships\nIf you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "R+AI 2026 Workshops",
+    "section": "",
+    "text": "Tuesday, November 10, 2026\n3:40 PM - 4:40 PM Eastern (1 hour)\nFormat: Live workshop\n\n\n\nThe R Validation Hub’s risk-based framework – evaluating R packages on purpose, maintenance practices, community usage, and testing – has become foundational for using R in regulated submissions. At the same time AI tooling has matured enough that some consider it is a plausible candidate for helping in some tasks such as assisting assessors in reviewing maintenance signals at scale, drafting or evaluating remediation tests, flagging changes across package versions.\nAI also raises an issue in return: how should risk assessment treat packages or contributions that are themselves AI-generated or AI-assisted?\nThis workshop is designed to gather people with hands-on experience in R package validation, regulated environments, and applied AI tooling for a working discussion.\nWhere AI can realistically help within the existing framework\nWhere AI-assisted evaluation introduces new risks that would themselves need validation\nWhat a minimal, practical pilot of AI- assisted risk assessment could look like\nSession notes and points of consensus will be captured and used as the starting point for a community whitepaper\nTopic: Evaluation, Observability, Responsible AI, and Governance\n\n\n\n\n\n\nR Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon\n\nIleana is the Strategic Platform Lead for Life Sciences at Appsilon, where she guides the direction of the platform’s team offering for the industry. She brings more than 8 years in pharma and biotech and over 14 years of using R. As Vice Chair of the R Validation Hub, she supports the responsible, risk-based use of open-source software in regulated settings. Ileana believes science and research deserve environments and infrastructure that match their needs for reproducibility, traceability and innovation, and that open-source solutions are a massive part of getting there. Above all, she is passionate about giving researchers tools they can trust, build on and enjoy using.\nLinkedIn\n\n\n\nChair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab\n\nDoug brings 10 years of Pharma and open source experience, with a focus on the human and process questions that steer clinical delivery. He Chairs the R Validation Hub as part of the R Consortium, which advocates for responsible risk-based adoption of open source tools, which invites new questions in the era of AI regarding how we express trust in software. Doug is also the Product Lead for Life Science at Domino, where he applies this philosophy of trust, reproducibility and traceability to deliver a rigorous platform for GxP workloads. Above all, Doug’s passionate about fostering open-source software that empowers people, be that through collaboration, decision-making, scientific rigor, reproducibility or even just to make analysis fun.\nGitHub · Mastodon · LinkedIn"
+  },
+  {
+    "objectID": "workshops.html#where-does-ai-fit",
+    "href": "workshops.html#where-does-ai-fit",
+    "title": "R+AI 2026 Workshops",
+    "section": "",
+    "text": "Tuesday, November 10, 2026\n3:40 PM - 4:40 PM Eastern (1 hour)\nFormat: Live workshop\n\n\n\nThe R Validation Hub’s risk-based framework – evaluating R packages on purpose, maintenance practices, community usage, and testing – has become foundational for using R in regulated submissions. At the same time AI tooling has matured enough that some consider it is a plausible candidate for helping in some tasks such as assisting assessors in reviewing maintenance signals at scale, drafting or evaluating remediation tests, flagging changes across package versions.\nAI also raises an issue in return: how should risk assessment treat packages or contributions that are themselves AI-generated or AI-assisted?\nThis workshop is designed to gather people with hands-on experience in R package validation, regulated environments, and applied AI tooling for a working discussion.\nWhere AI can realistically help within the existing framework\nWhere AI-assisted evaluation introduces new risks that would themselves need validation\nWhat a minimal, practical pilot of AI- assisted risk assessment could look like\nSession notes and points of consensus will be captured and used as the starting point for a community whitepaper\nTopic: Evaluation, Observability, Responsible AI, and Governance\n\n\n\n\n\n\nR Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon\n\nIleana is the Strategic Platform Lead for Life Sciences at Appsilon, where she guides the direction of the platform’s team offering for the industry. She brings more than 8 years in pharma and biotech and over 14 years of using R. As Vice Chair of the R Validation Hub, she supports the responsible, risk-based use of open-source software in regulated settings. Ileana believes science and research deserve environments and infrastructure that match their needs for reproducibility, traceability and innovation, and that open-source solutions are a massive part of getting there. Above all, she is passionate about giving researchers tools they can trust, build on and enjoy using.\nLinkedIn\n\n\n\nChair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab\n\nDoug brings 10 years of Pharma and open source experience, with a focus on the human and process questions that steer clinical delivery. He Chairs the R Validation Hub as part of the R Consortium, which advocates for responsible risk-based adoption of open source tools, which invites new questions in the era of AI regarding how we express trust in software. Doug is also the Product Lead for Life Science at Domino, where he applies this philosophy of trust, reproducibility and traceability to deliver a rigorous platform for GxP workloads. Above all, Doug’s passionate about fostering open-source software that empowers people, be that through collaboration, decision-making, scientific rigor, reproducibility or even just to make analysis fun.\nGitHub · Mastodon · LinkedIn"
+  },
+  {
+    "objectID": "workshops.html#from-lab-to-production-shipping-r-powered-drug-discovery-models-as-apps-on-an-enterprise-aidata-platform",
+    "href": "workshops.html#from-lab-to-production-shipping-r-powered-drug-discovery-models-as-apps-on-an-enterprise-aidata-platform",
+    "title": "R+AI 2026 Workshops",
+    "section": "From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform",
+    "text": "From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform\n\n\n\nDate & Time\nWednesday, November 11, 2026\n12:35 PM - 1:35 PM Eastern (1 hour)\nFormat: Live tutorial\n\n\nDescription\nMost machine learning models built in R for drug discovery never leave the researcher’s laptop. This talk is a case study of taking R-based models from exploratory lab code to a governed, production AI application on an enterprise data platform.\nAt the center is the R pipeline: reproducible data preprocessing, molecular feature engineering, model training, and scoring, packaged to run reliably against enterprise data. I’ll show how this pipeline is version-controlled, containerized, and served behind a Streamlit frontend so scientists can query predictions without touching code.\nI’ll also cover the realities of shipping AI in a regulated domain: secure deployment, private or managed models that keep proprietary chemistry in-house, production monitoring, and cost control at scale. Attendees will leave with a concrete blueprint for operationalizing R machine learning, plus the practices that make R pipelines reproducible, auditable, and trusted in a regulated environment.\nTopic: Production AI and Industry Case Studies\n\n\n\n\n\nChanin Nantasenamat, PhD\nLead Developer Advocate, Snowflake\n\nChanin Nantasenamat, PhD is a Lead Developer Advocate at Snowflake, where he creates educational content on building data and AI applications with Streamlit and Snowflake. He recently co-developed the Coursera course “Fast Prototyping of GenAI Apps with Streamlit,” part of a DeepLearning.AI × Snowflake collaboration empowering developers to build GenAI applications. Chanin launched the social learning initiatives 30 Days of Streamlit and 30 Days of AI, which had helped introduced developers on building data and AI apps.\nBefore entering tech, Chanin was a full Professor of Bioinformatics, where he applied Python and R to computational drug discovery. He published extensively on machine learning research in this field, authoring 141 research articles, 21 review articles, and 6 book chapters. He has also presented at the R User Group at the Harvard Data Science Initiative.\nChanin is the creator of the Data Professor YouTube channel, with an audience of 220,000 subscribers. His 400+ videos (including dedicated playlists on R 101, R Data Science, and R Shiny) have earned over 10 million views. He has also created tutorials for the freeCodeCamp channel that amassed more than 2 million views. Together, his work bridges rigorous research, hands-on teaching, and a thriving open-source community.\nLinkedIn"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Speaker lineup: Coming Soon.\nIf you would like to recommend a speaker, contact: TBD."
+  },
+  {
+    "objectID": "survey.html",
+    "href": "survey.html",
+    "title": "R + AI Community Needs Survey: Tools, Trust, Reproducibility, and Real-World Workflows",
+    "section": "",
+    "text": "The R community is rapidly exploring new ways to use AI for programming, statistical analysis, reproducible research, and production workflows. To help understand where the community is today and tomorrow, R Consortium is conducting this short survey in advance of the R+AI 2026 event, which will be held the second week of November 2026.\nSurvey responses will help shape future R Consortium webinars, working groups, educational resources, and R+AI programming.\nAs a thank you for participating, respondents who choose to provide their email address will receive early access to the survey results and community analysis before they are presented publicly. We hope the findings will help R users better understand emerging trends, tools, and priorities across the R + AI ecosystem.\nThe survey takes approximately 7–10 minutes to complete, and respondents who share an email get early access to the results. Please join the survey, we really value your input!\nTake the Survey"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Schedule: Coming Soon.\nDates: Nov 12–13, 2025 Location: 100% Online Talks will be recorded Speakers participate in live Q&A Time zone: US Eastern Time\n\nDay 1: TBD\nDay 2: TBD"
+  },
+  {
+    "objectID": "cfp.html",
+    "href": "cfp.html",
+    "title": "Call for Proposals",
+    "section": "",
+    "text": "The Call for Proposals for R+AI 2026 is now closed. We wanted to hear about your experience and specific workflows at the intersection of R and AI—whether you’re just getting started with machine learning, experimenting with large language models in R, using AI tools to accelerate your code, deploying AI solutions in industry, or researching deep learning and responsible AI.\nThe deadline was September 7, 2026."
+  },
+  {
+    "objectID": "cfp.html#thanks-to-everyone-for-submitting",
+    "href": "cfp.html#thanks-to-everyone-for-submitting",
+    "title": "Call for Proposals",
+    "section": "",
+    "text": "The Call for Proposals for R+AI 2026 is now closed. We wanted to hear about your experience and specific workflows at the intersection of R and AI—whether you’re just getting started with machine learning, experimenting with large language models in R, using AI tools to accelerate your code, deploying AI solutions in industry, or researching deep learning and responsible AI.\nThe deadline was September 7, 2026."
+  },
+  {
+    "objectID": "cfp.html#key-dates",
+    "href": "cfp.html#key-dates",
+    "title": "Call for Proposals",
+    "section": "Key dates",
+    "text": "Key dates\n\nCFP closed: September 7, 2026\n\nConference: November 10-11, 2026"
+  },
+  {
+    "objectID": "cfp.html#rai-2026-call-for-proposals-technical-areas",
+    "href": "cfp.html#rai-2026-call-for-proposals-technical-areas",
+    "title": "Call for Proposals",
+    "section": "R+AI 2026 Call for Proposals: Technical Areas",
+    "text": "R+AI 2026 Call for Proposals: Technical Areas\nFoundations of Modern AI for R Users\nTutorials and primers that help R users understand today’s AI stack in practice: foundation models, embeddings, vector search, provider and model selection, cost and latency trade-offs, local versus hosted models, and how modern AI fits alongside classical machine learning in R.\nLLM Engineering in R\nSessions on building reliable LLM workflows in R, including structured outputs, tool and function calling, retrieval, prompt and context design, batching, caching, file and image inputs, and hybrid R/Python patterns.\nAgents, MCP, and Tool Ecosystems\nTalks on agentic workflows in R: MCP servers and clients, multi-agent orchestration, skills, memory, tool registries, package-aware assistants, and hybrid architectures that keep R at the center of the workflow.\nAI-Assisted R Development and Coding Workflows\nHow AI is changing R development: code generation, refactoring, debugging, documentation, test creation, review, migration, package maintenance, legacy-code modernization, and IDE-native assistance.\nMachine Learning, Deep Learning, and Multimodal AI in R\nNot every AI workflow is an LLM. This track covers tabular ML, forecasting, causal ML, tidymodels, torch, geospatial deep learning, computer vision, multimodal pipelines, and other predictive workflows where R remains strong.\nAI-Powered Data Products and Conversational Analytics\nBuilding chat-enabled Shiny apps, analyst copilots, natural-language dashboards, reactive data interfaces, and human-in-the-loop tools that turn questions into auditable analysis and visual output.\nEvaluation, Observability, Responsible AI, and Governance\nHow to evaluate AI systems in R, compare performance, cost, and latency, instrument applications, manage prompt and tool regressions, document behavior, and address privacy, reproducibility, bias, fairness, and regulatory expectations.\nProduction AI and Industry Case Studies\nFrameworks, architectures, and case studies for shipping AI with R in real organizations: secure deployment, private or managed models, enterprise platforms, monitoring, cost control, procurement constraints, and lessons learned in healthcare, pharma, finance, marketing, manufacturing, research, and the public sector."
+  },
+  {
+    "objectID": "cfp.html#formats",
+    "href": "cfp.html#formats",
+    "title": "Call for Proposals",
+    "section": "Formats",
+    "text": "Formats\n\nTalks (20–25 min)\n\nLightning talks (5–7 min)\n\nWorkshops (2–3 hours)\n\nPanels (45–60 min)"
+  },
+  {
+    "objectID": "cfp.html#important-notes",
+    "href": "cfp.html#important-notes",
+    "title": "Call for Proposals",
+    "section": "Important notes",
+    "text": "Important notes\nAll speakers are required to adhere to our Code of Conduct.\nTalks will be recorded and posted to the R Consortium YouTube channel."
+  },
+  {
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "Venue details: Online.\n\nLocation: Online event\nTime zone: US Eastern Time (ET)\nTravel and lodging: TBD\nAccessibility: TBD"
+  },
+  {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsors",
     "section": "",
     "text": "If you would like to know about sponsorship opportunities, please write to sponsorship@r-consortium.org."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "R+AI 2026 Program",
+    "section": "",
+    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n8:00 AM\n8:45 AM\n45 mins\nOpening Keynote\nAndrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar\n\n\n8:50 AM\n9:25 AM\n35 mins\nFrom Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era\nSahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services\n\n\n9:30 AM\n9:45 AM\n15 mins\nLightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.\nDiana Pholo, Machine Learning Data Scientist (Research), South African Revenue Service (SARS)\n\n\n10:05 AM\n10:40 AM\n35 mins\n50 lines of code to rebuild Claude Code in R\nJoseph Barbier, Yellow Sunflower\n\n\n10:45 AM\n11:20 AM\n35 mins\nFrom Prompts to Pipelines: Building Auditable Human–AI Workflows for Evidence Synthesis in R\nMaciej Cabanski, Data Analysis and R Specialist\n\n\n12:05 PM\n12:40 PM\n35 mins\nTurtles All the Way Down: Recursive Language Models in R\nTroy Hernandez, Founder and CEO, cornball.ai\n\n\n12:45 PM\n1:20 PM\n35 mins\nSelf-Documenting Shiny Applications with GitHub Actions, ChatGPT, and Playwright MCP\nAshley Geldmeier, Data Scientist I, ACES\n\n\n1:25 PM\n1:40 PM\n15 mins\nLightning talk: Ten Agents, 8GB of RAM, and Ten Dollars a Month\nKerrigan Baron, CTO & Co-Founder, Fidget Labs B.V.\n\n\n1:45 PM\n2:20 PM\n35 mins\nAgentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R\nImad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI)\n\n\n3:00 PM\n3:35 PM\n35 mins\nUtilizing Reproducible Agents in RStudio - A Researcher’s Toolkit\nNykko Vitali, PhD Student, Department of Psychology, Harvard University\n\n\n3:40 PM\n4:40 PM\n1 hour\nWorkshop: Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper\nIleana Saenz, R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon; Doug Kelkhoff, Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab"
+  },
+  {
+    "objectID": "program.html#day-1-tuesday-november-10-2026",
+    "href": "program.html#day-1-tuesday-november-10-2026",
+    "title": "R+AI 2026 Program",
+    "section": "",
+    "text": "All times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n8:00 AM\n8:45 AM\n45 mins\nOpening Keynote\nAndrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar\n\n\n8:50 AM\n9:25 AM\n35 mins\nFrom Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era\nSahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services\n\n\n9:30 AM\n9:45 AM\n15 mins\nLightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.\nDiana Pholo, Machine Learning Data Scientist (Research), South African Revenue Service (SARS)\n\n\n10:05 AM\n10:40 AM\n35 mins\n50 lines of code to rebuild Claude Code in R\nJoseph Barbier, Yellow Sunflower\n\n\n10:45 AM\n11:20 AM\n35 mins\nFrom Prompts to Pipelines: Building Auditable Human–AI Workflows for Evidence Synthesis in R\nMaciej Cabanski, Data Analysis and R Specialist\n\n\n12:05 PM\n12:40 PM\n35 mins\nTurtles All the Way Down: Recursive Language Models in R\nTroy Hernandez, Founder and CEO, cornball.ai\n\n\n12:45 PM\n1:20 PM\n35 mins\nSelf-Documenting Shiny Applications with GitHub Actions, ChatGPT, and Playwright MCP\nAshley Geldmeier, Data Scientist I, ACES\n\n\n1:25 PM\n1:40 PM\n15 mins\nLightning talk: Ten Agents, 8GB of RAM, and Ten Dollars a Month\nKerrigan Baron, CTO & Co-Founder, Fidget Labs B.V.\n\n\n1:45 PM\n2:20 PM\n35 mins\nAgentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R\nImad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI)\n\n\n3:00 PM\n3:35 PM\n35 mins\nUtilizing Reproducible Agents in RStudio - A Researcher’s Toolkit\nNykko Vitali, PhD Student, Department of Psychology, Harvard University\n\n\n3:40 PM\n4:40 PM\n1 hour\nWorkshop: Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper\nIleana Saenz, R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon; Doug Kelkhoff, Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab"
+  },
+  {
+    "objectID": "program.html#day-2-wednesday-november-11-2026",
+    "href": "program.html#day-2-wednesday-november-11-2026",
+    "title": "R+AI 2026 Program",
+    "section": "Day 2: Wednesday, November 11, 2026",
+    "text": "Day 2: Wednesday, November 11, 2026\nAll times Eastern\n\n\n\nStart Time\nEnd Time\nDuration\nTitle of Talk\nSpeaker and Title (affiliation)\n\n\n\n\n8:00 AM\n8:35 AM\n35 mins\nEnterprise AI Governance and Secure Grounding: Privacy, Zero Trust, and Observability in Agentic AI Systems\nKarthik Chandrasekaran, Principal Engineering Manager, Microsoft\n\n\n8:40 AM\n9:15 AM\n35 mins\nR-Native Private AI for Sensitive Data: Secure Analysis and Code Modernization\nLovekumar Patel, Delivery Manager, Data & AI Solutions, ProCogia; Andey Nunes-Brewster, Data Interoperability Coordinator, Oregon Health Authority\n\n\n9:20 AM\n9:55 AM\n35 mins\nSurvSure: Building an Evidence-Grounded, Verified AI Copilot for Survival Analysis in R Shiny\nZahra Esfandiar, Strategic Analysis Specialist, Saman Electronic Payment (SEP)\n\n\n10:15 AM\n10:30 AM\n15 mins\nLightning talk: Standardizing Molecular Diagnostic Metadata: An Automated Workflow Mapping FDA-Cleared NAAT Assays to Pathogen Taxonomy\nManuel Duval, Scientist, double-strand LLC\n\n\n10:35 AM\n11:10 AM\n35 mins\nTwo Languages, One Conversation: An LLM-Powered R Shiny App served by a Python API\nMichael Thomas, Chief Data Scientist, Ketchbrook Analytics\n\n\n11:55 AM\n12:30 PM\n35 mins\nanvl - Accelerated array computing for R\nSebastian Fischer, PhD Student, LMU Munich, Munich Center for Machine Learning (MCML)\n\n\n12:35 PM\n1:35 PM\n1 hour\nTutorial: From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform\nChanin Nantasenamat, PhD, Lead Developer Advocate, Snowflake\n\n\n1:55 PM\n2:30 PM\n35 mins\nKeep your R workflow in the big AI picture\nMarcin Dubel, Head of Technology, Appsilon\n\n\n2:35 PM\n3:10 PM\n35 mins\nFrom Experimentation to Trusted Production: A Practical Framework for R+AI in Regulated Industries\nNammn Joshii, Director, AI Innovation and Delivery, ProCogia; Siddharth Maheshwari, Senior Manager, Data & AI Solutions, ProCogia\n\n\n3:15 PM\n4:00 PM\n45 mins\nClosing Keynote\nMine Çetinkaya-Rundel, Professor of the Practice at Duke University & Developer Educator at Posit, PBC"
+  },
+  {
+    "objectID": "attend.html",
+    "href": "attend.html",
+    "title": "R+AI 2026",
+    "section": "",
+    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
+  },
+  {
+    "objectID": "attend.html#code-of-conduct",
+    "href": "attend.html#code-of-conduct",
+    "title": "R+AI 2026",
+    "section": "",
+    "text": "The R Consortium and its working groups are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. R Consortium events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at R Consortium events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.\nThis Code of Conduct may be revised at any time by The R Consortium and the terms are non-negotiable. Your registration for or attendance at any R Consortium event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.\n\n\nAll event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.\n\n\n\nHarassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on sex, gender, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.\nExhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.\nIndividuals who participate (or plan to participate) in R Consortium events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.\n\n\n\nIf a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nIf a participant (or individual wishing to participate in an R Consortium event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a R Consortium event, the R Consortium may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future R Consortium events, events, working groups, trainings or other activities.\n\n\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact conduct@r-consortium.org.\n\n\n\nOur staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The R Consortium reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further R Consortium events, working groups, trainings or other activities.\nConference staff will also provide support to victims, including, but not limited to:\n\nProviding an Escort\nContacting Hotel/Venue Security or Local Law Enforcement\nBriefing Key Event Staff For Response/Victim Assistance\nAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.\n\n\n\n\nIf you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact conduct@r-consortium.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact."
   }
 ]
