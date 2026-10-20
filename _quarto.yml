@@ -6,6 +6,9 @@ website:
   title: "R+AI 2026"
   favicon: images/favicon.ico
   site-url: "https://rconsortium.github.io/RplusAI_website/"
+  image: images/rplusai-main-images-with-dates.png
+  open-graph: true
+  twitter-card: true
   google-analytics: "G-B697SX1BNN"
   navbar:
     left:
