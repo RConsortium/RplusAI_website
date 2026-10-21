@@ -10,7 +10,7 @@ All times Eastern
 |------------|----------|----------|---------------|----------------------------------|
 | 8:00 AM | 8:45 AM | 45 mins | [Opening Keynote](Abstracts.qmd#andrew-heiss) | Andrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar |
 | 8:50 AM | 9:25 AM | 35 mins | [From Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era](Abstracts.qmd#sahana-prasad) | Sahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services |
-| 9:30 AM | 9:45 AM | 15 mins | [Lightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.](Abstracts.qmd#diana-pholo) | Diana Pholo, Machine Learning Data Scientist (Research), South African Revenue Service (SARS) |
+| 9:30 AM | 9:45 AM | 15 mins | [Lightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.](Abstracts.qmd#diana-pholo) | Diana Pholo, Machine Learning Data Scientist (Research) |
 | 10:05 AM | 10:40 AM | 35 mins | [50 lines of code to rebuild Claude Code in R](Abstracts.qmd#joseph-barbier) | Joseph Barbier, Yellow Sunflower |
 | 10:45 AM | 11:20 AM | 35 mins | [From Prompts to Pipelines: Building Auditable Human–AI Workflows for Evidence Synthesis in R](Abstracts.qmd#maciej-cabanski) | Maciej Cabanski, Data Analysis and R Specialist |
 | 12:05 PM | 12:40 PM | 35 mins | [Turtles All the Way Down: Recursive Language Models in R](Abstracts.qmd#troy-hernandez) | Troy Hernandez, Founder and CEO, cornball.ai |

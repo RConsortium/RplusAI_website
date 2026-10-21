@@ -76,7 +76,7 @@ I love to work in environments where I can solve some challenging and meaningful
 
 # Diana Pholo {#diana-pholo}
 
-**Machine Learning Data Scientist (Research), South African Revenue Service (SARS)**
+**Machine Learning Data Scientist (Research)**
 
 ![](images/diana-pholo.jpg){style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; object-position: 42% 18%;"}
 
