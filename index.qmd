@@ -15,33 +15,31 @@ Lend your voice to the community! We want to hear about your experience and spec
 
 ## KEYNOTE ADDRESSES
 
-### Andrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar
+[![](images/speaker-cards/andrew-heiss-keynote.png){fig-alt="R+AI 2026 Opening Keynote card: Andrew Heiss, Ph.D., Georgetown University in Qatar. Friction Worth Keeping: What Keeps Us Human When AI Makes Everything Easy. November 10, 8:00 AM Eastern."}](Abstracts.qmd#andrew-heiss)
 
-#### Opening Keynote
+### Friction Worth Keeping: What Keeps Us Human When AI Makes Everything Easy
 
-Date & Time: November 10 at 8:00 AM, Eastern
+**Andrew Heiss, Ph.D.**, Assistant Professor of International Politics and Policy, Georgetown University in Qatar
 
-![](images/andrew-heiss.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; object-position: center 15%;"}
+**Opening Keynote** · November 10 at 8:00 AM, Eastern
 
-#### Bio
+Generative AI removes friction. Need a poster for an event? Slides for stakeholders? An R package to access an API? An answer for a problem set? It's all a prompt away. But not all friction is bad. Some friction is formative and central to the human experience: struggling to learn develops skills and expertise, and working through hard problems builds understanding and judgment. How can we tell what friction is worth keeping?
 
-Andrew Heiss's research examines how international NGOs work in authoritarian countries. He received the 2016–2018 Emerging Scholar Dissertation Award from the International Society for Third Sector Research (ISTR). He also works in public administration and policy, nonprofit management, international relations, and comparative politics.
+[Read the full abstract and bio](Abstracts.qmd#andrew-heiss)
 
-He teaches quantitative research methods and data science, program evaluation and causal inference, data visualization, economics, and science communication. He is a certified RStudio instructor and a Posit Academy mentor.
+[![](images/speaker-cards/mine-cetinkaya-rundel-keynote.png){fig-alt="R+AI 2026 Closing Keynote card: Mine Çetinkaya-Rundel, Duke University. Beyond the prompt. November 11, 3:15 PM Eastern."}](Abstracts.qmd#mine-cetinkaya-rundel)
 
-### Mine Çetinkaya-Rundel, Professor of the Practice at Duke University & Developer Educator at Posit, PBC
+### Beyond the prompt
 
-#### Closing Keynote
+**Mine Çetinkaya-Rundel**, Associate Director of Undergraduate Studies & Professor of the Practice, Department of Statistical Science, Duke University; Director of the First-Year Experience, Trinity College of Arts & Sciences
 
-Date & Time: November 11 at 3:15 PM, Eastern
+**Closing Keynote** · November 11 at 3:15 PM, Eastern
 
-![](images/mine-cetinkaya-rundel.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+AI tools can generate a polished ggplot, scaffold a Quarto report, and debug a dplyr pipeline in seconds. Should students still learn to do these things themselves? I argue yes, and that teaching programming and reproducible workflows is more important than ever. This talk reframes programming as a pathway to statistical thinking rather than syntax acquisition, and explores assignments and assessments that prepare students to use AI critically, reproducibly, and responsibly.
 
-#### Bio
+[Read the full abstract and bio](Abstracts.qmd#mine-cetinkaya-rundel)
 
-Mine Çetinkaya-Rundel is Professor of the Practice of Statistical Science and the Director of Undergraduate Studies in the Department of Statistical Science, as well as an affiliated faculty member in the Computational Media, Arts, and Cultures program at Duke University. Her work is dedicated to advancing innovation in statistics and data science pedagogy, focusing particularly on computing, reproducible research, student-centered learning, and open-source education. She emphasizes integrating computation into the undergraduate statistics curriculum, employing reproducible research methodologies, and analyzing real and complex datasets.
-
-[LinkedIn](https://www.linkedin.com/in/minec/) · [Mastodon](https://fosstodon.org/@minecr) · [Bluesky](https://bsky.app/profile/minecr.bsky.social)
+[Register now to hear both keynotes!](https://events.zoom.us/ev/AvKPIaFGx9jwfTQyiDQcLmRWjmoDg4b4O20UQLssgTvlWDoXuMh5~AvDbrQHgBmJBUNpTBSMDUTQVfVen6k7w_xlMXZremUKDubDA3Q9AQ7-FRQ){.btn .btn-rai-mustard .btn-rai-lg role="button"}
 
 ## R + AI Community Needs Survey
 

@@ -10,11 +10,19 @@ Abstracts, bios, titles, affiliations, and headshots will be added as speaker ma
 
 ![](images/andrew-heiss.jpg){style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; object-position: center 15%;"}
 
-## Opening Keynote
+## Friction Worth Keeping: What Keeps Us Human When AI Makes Everything Easy
 
 **Date & Time:** November 10 at 8:00 AM, Eastern
 
-**Format:** Keynote (45 minutes)
+**Format:** Opening Keynote (45 minutes)
+
+### Abstract
+
+Generative AI removes friction. Need a poster for an event? Slides for stakeholders? An R package to access an API? An answer for a problem set? A feature requiring major refactoring? It's all a prompt away. Incidental, frustrating friction is disappearing.
+
+But not all friction is bad. Some friction is formative and central to the human experience. Struggling to learn develops skills and expertise. Creating things slowly gives us time to reflect and develop taste. Working through hard problems builds understanding and judgment. Contributing to a community builds trust.
+
+AI can eliminate all kinds of friction, producing output that looks polished and convincing whether it's grounded in human understanding or hollow underneath. How can we tell what friction is worth keeping? This talk explores the difference between friction that gets in our way and friction that makes us who we are, and what keeps us human when our work becomes effortless.
 
 ### Bio
 
@@ -586,18 +594,22 @@ Siddharth Maheshwari is Senior Manager, Data & AI Solutions at ProCogia, where h
 
 # Mine Çetinkaya-Rundel {#mine-cetinkaya-rundel}
 
-**Professor of the Practice at Duke University & Developer Educator at Posit, PBC**
+**Associate Director of Undergraduate Studies & Professor of the Practice, Department of Statistical Science, Duke University; Director of the First-Year Experience, Trinity College of Arts & Sciences**
 
 ![](images/mine-cetinkaya-rundel.jpg){style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"}
 
-## Closing Keynote
+## Beyond the prompt
 
 **Date & Time:** November 11 at 3:15 PM, Eastern
 
-**Format:** Keynote (45 minutes)
+**Format:** Closing Keynote (45 minutes)
+
+### Abstract
+
+AI tools can generate a polished ggplot, scaffold a Quarto report, and debug a dplyr pipeline in seconds. Should students still learn to do these things themselves? I argue yes—and that teaching programming and reproducible workflows is more important than ever. When AI produces plausible code freely, students must be able to assess whether it works as intended, recognize when an analysis quietly goes wrong, and structure their work so every step can be verified. Programming also teaches students to think with data: to ask sharper questions, understand what data can and cannot answer, and reason rigorously about uncertainty and models. Drawing on experience designing introductory data science courses, this talk reframes programming as a pathway to statistical thinking rather than syntax acquisition. Through concrete examples, it explores assignments and assessments that reward genuine understanding and prepare students to use AI critically, reproducibly, and responsibly.
 
 ### Bio
 
-Mine Çetinkaya-Rundel is Professor of the Practice of Statistical Science and the Director of Undergraduate Studies in the Department of Statistical Science, as well as an affiliated faculty member in the Computational Media, Arts, and Cultures program at Duke University. Her work is dedicated to advancing innovation in statistics and data science pedagogy, focusing particularly on computing, reproducible research, student-centered learning, and open-source education. She emphasizes integrating computation into the undergraduate statistics curriculum, employing reproducible research methodologies, and analyzing real and complex datasets.
+Mine Çetinkaya-Rundel is Professor of the Practice of Statistical Science and Associate Director of Undergraduate Studies in the Department of Statistical Science, Director of the First-Year Experience in Trinity College of Arts & Sciences, and an affiliated faculty member in the Computational Media, Arts, and Cultures program at Duke University. Her work is dedicated to advancing innovation in statistics and data science pedagogy, focusing particularly on computing, reproducible research, student-centered learning, and open-source education. She emphasizes integrating computation into the undergraduate statistics curriculum, employing reproducible research methodologies, and analyzing real and complex datasets.
 
 [LinkedIn](https://www.linkedin.com/in/minec/) · [Mastodon](https://fosstodon.org/@minecr) · [Bluesky](https://bsky.app/profile/minecr.bsky.social)

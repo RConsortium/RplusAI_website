@@ -8,3 +8,4 @@ _site/
 .venv-banner/
 
 **/*.quarto_ipynb
+.venv-speaker-cards/

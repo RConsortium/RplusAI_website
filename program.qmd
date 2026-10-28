@@ -8,7 +8,7 @@ All times Eastern
 
 | Start Time | End Time | Duration | Title of Talk | Speaker and Title (affiliation) |
 |------------|----------|----------|---------------|----------------------------------|
-| 8:00 AM | 8:45 AM | 45 mins | [Opening Keynote](Abstracts.qmd#andrew-heiss) | Andrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar |
+| 8:00 AM | 8:45 AM | 45 mins | [Opening Keynote: Friction Worth Keeping: What Keeps Us Human When AI Makes Everything Easy](Abstracts.qmd#andrew-heiss) | Andrew Heiss, Ph.D., Assistant Professor of International Politics and Policy, Georgetown University in Qatar |
 | 8:50 AM | 9:25 AM | 35 mins | [From Statistical Models to Generative AI: Why Statistical Thinking Still Matters in the R+AI Era](Abstracts.qmd#sahana-prasad) | Sahana Prasad, Guest Faculty, BITS-WILP, Pilani (India); Sharanya Prasad, Senior Product Manager, Amazon Web Services |
 | 9:30 AM | 9:45 AM | 15 mins | [Lightning talk: To prompt or not to prompt? Why agentic AI is not the panacea.](Abstracts.qmd#diana-pholo) | Diana Pholo, Machine Learning Data Scientist (Research) |
 | 10:05 AM | 10:40 AM | 35 mins | [50 lines of code to rebuild Claude Code in R](Abstracts.qmd#joseph-barbier) | Joseph Barbier, Yellow Sunflower |
@@ -35,4 +35,4 @@ All times Eastern
 | 12:35 PM | 1:35 PM | 1 hour | [Tutorial: From Lab to Production: Shipping R-Powered Drug Discovery Models as Apps on an Enterprise AI/Data Platform](workshops.qmd#from-lab-to-production) | Chanin Nantasenamat, PhD, Lead Developer Advocate, Snowflake |
 | 1:55 PM | 2:30 PM | 35 mins | [Keep your R workflow in the big AI picture](Abstracts.qmd#marcin-dubel) | Marcin Dubel, Head of Technology, Appsilon |
 | 2:35 PM | 3:10 PM | 35 mins | [From Experimentation to Trusted Production: A Practical Framework for R+AI in Regulated Industries](Abstracts.qmd#nammn-joshii) | Nammn Joshii, Director, AI Innovation and Delivery, ProCogia; Siddharth Maheshwari, Senior Manager, Data & AI Solutions, ProCogia |
-| 3:15 PM | 4:00 PM | 45 mins | [Closing Keynote](Abstracts.qmd#mine-cetinkaya-rundel) | Mine Çetinkaya-Rundel, Professor of the Practice at Duke University & Developer Educator at Posit, PBC |
+| 3:15 PM | 4:00 PM | 45 mins | [Closing Keynote: Beyond the prompt](Abstracts.qmd#mine-cetinkaya-rundel) | Mine Çetinkaya-Rundel, Associate Director of Undergraduate Studies & Professor of the Practice, Department of Statistical Science, Duke University; Director of the First-Year Experience, Trinity College of Arts & Sciences |
