@@ -43,11 +43,11 @@ AI tools can generate a polished ggplot, scaffold a Quarto report, and debug a d
 
 ## R + AI Community Needs Survey
 
-Where is the R community on AI today, and where is it headed? Take this short survey on tools, trust, reproducibility, and real-world workflows. Your responses will help shape R Consortium webinars, working groups, resources, and R+AI 2026 programming.
+Where is the R community on AI today, and where is it headed? In September and October 2026, R Consortium conducted a short survey on tools, trust, reproducibility, and real-world workflows. The responses are helping shape R Consortium webinars, working groups, resources, and R+AI 2026 programming.
 
-It takes about 7–10 minutes, and respondents who share an email get early access to the results.
+Respondents who shared an email are getting early access to the results. The full report will be available online on the R Consortium website following R+AI 2026.
 
-[Learn more and take the survey](survey.qmd){.btn .btn-rai-mustard role="button"}
+[Learn More](survey.qmd){.btn .btn-rai-mustard role="button"}
 
 ## Sponsorships
 
