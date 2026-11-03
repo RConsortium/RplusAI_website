@@ -570,10 +570,6 @@ I'm also an active voice in the community, speaking regularly at conferences on 
 
 **Topic:** Production AI and Industry Case Studies
 
-**Co-Presenter:** Siddharth Maheshwari, Senior Manager, Data & AI Solutions, ProCogia
-
-![](images/siddharth-maheshwari.jpg){style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"}
-
 ### Abstract
 
 How do you move an R+AI workflow from a successful experiment into something a regulated organization can actually trust and operate in production? This talk presents a practical, reusable framework for preserving  traceability, governance, reproducibility, and control as AI moves into higher-consequence workflows. We will use a deployment spectrum, from public AI services and enterprise APIs through private cloud, on-premises, and air-gapped environments, to show the trade-offs across control, speed, complexity, and cost. The goal is not maximum sovereignty, but choosing the level of control that matches the workload’s risk, value, and scale. Drawing on lessons from regulated analytics modernization and real production workflows, we will show how model selection, evaluation, observability, guardrails, validation, and human oversight fit together in practice. Attendees will leave with a reusable framework and readiness checklist for deciding what to control, validate, monitor, and govern before scaling R+AI.
@@ -583,12 +579,6 @@ How do you move an R+AI workflow from a successful experiment into something a r
 Nammn Joshii is Director, AI Innovation and Delivery at ProCogia, where he leads enterprise data and AI transformation, strategic client engagements, and consulting delivery. He advises executives on translating AI, data, and technology strategy into scalable operating models and production-ready solutions that improve performance, reduce costs, and accelerate growth. With 13+ years of experience across technology and transformation, Nammn combines strategic perspective with hands-on delivery experience to help organizations navigate complex, technology-led change and move AI from experimentation into trusted enterprise use.
 
 [LinkedIn](https://www.linkedin.com/in/nammnjoshii/)
-
-### Co-Presenter bio
-
-Siddharth Maheshwari is Senior Manager, Data & AI Solutions at ProCogia, where he leads strategic engagements helping organizations apply data, analytics, and AI to complex business challenges. With 10 years of experience across consulting and technology, he partners with business and technology leaders from strategy through implementation across telecommunications, logistics, manufacturing, life sciences, technology, and the public sector. Siddharth brings a practical perspective on designing and scaling data and AI capabilities while balancing business value, technical architecture, governance, and organizational considerations.
-
-[LinkedIn](https://www.linkedin.com/in/maheshwari-siddharth/)
 
 ---
 
