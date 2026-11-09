@@ -282,7 +282,7 @@ Kerrigan has spoken at Netlify Compose and Contentful Storylines, writes Focal P
 
 ![](images/imad-el-badisy.jpg){style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"}
 
-## Agentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R
+## Agentic Compactness: Measuring the Cost of Machine Learning Workflows in R
 
 **Date & Time:** November 10 at 1:45 PM, Eastern
 

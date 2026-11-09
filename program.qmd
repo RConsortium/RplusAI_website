@@ -16,7 +16,7 @@ All times Eastern
 | 12:05 PM | 12:40 PM | 35 mins | [Turtles All the Way Down: Recursive Language Models in R](Abstracts.qmd#troy-hernandez) | Troy Hernandez, Founder and CEO, cornball.ai |
 | 12:45 PM | 1:20 PM | 35 mins | [Self-Documenting Shiny Applications with GitHub Actions, ChatGPT, and Playwright MCP](Abstracts.qmd#ashley-geldmeier) | Ashley Geldmeier, Data Scientist I, ACES |
 | 1:25 PM | 1:40 PM | 15 mins | [Lightning talk: Ten Agents, 8GB of RAM, and Ten Dollars a Month](Abstracts.qmd#kerrigan-baron) | Kerrigan Baron, CTO & Co-Founder, Fidget Labs B.V. |
-| 1:45 PM | 2:20 PM | 35 mins | [Agentic Compactness: Measuring the Cost of AI-Generated Machine Learning Workflows in R](Abstracts.qmd#imad-el-badisy) | Imad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI) |
+| 1:45 PM | 2:20 PM | 35 mins | [Agentic Compactness: Measuring the Cost of Machine Learning Workflows in R](Abstracts.qmd#imad-el-badisy) | Imad El Badisy, Research Engineer in Biostatistics, Mohammed VI Center for Research and Innovation (CM6RI) |
 | 3:00 PM | 3:35 PM | 35 mins | [Utilizing Reproducible Agents in RStudio - A Researcher's Toolkit](Abstracts.qmd#nykko-vitali) | Nykko Vitali, PhD Student, Department of Psychology, Harvard University |
 | 3:40 PM | 4:40 PM | 1 hour | [Workshop: Where Does AI Fit in R Package Risk-Based Assessment?: A Working Session Toward a Community Whitepaper](workshops.qmd#where-does-ai-fit) | Ileana Saenz, R Validation Hub Working Group; Strategic Platform Lead for Life Sciences at Appsilon; Doug Kelkhoff, Chair, R Validation Hub; Product Lead, Life Sciences, Domino Data Lab |
 
