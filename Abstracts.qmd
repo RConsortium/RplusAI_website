@@ -420,6 +420,8 @@ With a background in systems science and environmental science, Andey brings a s
 
 ![](images/zahra-esfandiar.jpg){style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"}
 
+*Please note: This session has been cancelled due to unforeseen circumstances. We apologize for the inconvenience.*
+
 ## SurvSure: Building an Evidence-Grounded, Verified AI Copilot for Survival Analysis in R Shiny
 
 **Date & Time:** November 11 at 9:20 AM, Eastern
