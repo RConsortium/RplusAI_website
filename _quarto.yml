@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  # The R + AI survey report (survey-report/) stays OFF the live site until Nov 10, 2026.
+  # Remove the exclusion on Nov 10 when the report goes live.
+  render:
+    - "*.qmd"
+    - "!survey-report/"
 
 website:
   title: "R+AI 2026"
@@ -14,8 +19,6 @@ website:
     left:
       - text: About
         href: about.qmd
-      - text: Registration
-        href: registration.qmd
       - text: Program
         href: program.qmd
       - text: Abstracts

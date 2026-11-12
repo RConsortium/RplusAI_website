@@ -2,7 +2,7 @@
 title: "R+AI 2026 Abstracts"
 ---
 
-Abstracts, bios, titles, affiliations, and headshots will be added as speaker materials come in. To show a photo, add the image file named in the comment under that speaker and uncomment the image line. Talk titles on the [program](program.qmd) link here. The [workshop and tutorial](workshops.qmd) are on their own page.
+Abstracts and speaker bios for R+AI 2026. Talk titles on the [program](program.qmd) link here. The [workshop and tutorial](workshops.qmd) are on their own page.
 
 # Andrew Heiss {#andrew-heiss}
 

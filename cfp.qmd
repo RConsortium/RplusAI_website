@@ -50,4 +50,4 @@ Frameworks, architectures, and case studies for shipping AI with R in real organ
 
 All speakers are required to adhere to our [Code of Conduct](attend.qmd).
 
-Talks will be recorded and posted to the [R Consortium YouTube channel](https://www.youtube.com/@RConsortium).
+Talks were recorded and will be posted to the [R Consortium YouTube channel](https://www.youtube.com/@RConsortium).

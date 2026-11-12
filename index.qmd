@@ -3,15 +3,13 @@ title: "R+AI 2026"
 page-layout: article
 ---
 
-![](images/rplusai-registration-open.jpg)
+![](images/rplusai-main-images-with-dates.png)
 
-Join us at **R+AI 2026**, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence.
+**R+AI 2026**, the R Consortium conference dedicated to the open-source R community and every facet of artificial intelligence, was held November 10–11, 2026. The conference was 100% online.
 
-This year, R+AI is being held November 10-11, 2026.
+The program covered machine learning and large language models in R, AI-assisted coding tools, industry deployments, and responsible AI research.
 
-Lend your voice to the community! We want to hear about your experience and specific workflows—from machine learning and large language models in R, to AI-assisted coding tools, industry deployments, and responsible AI research.
-
-[Register now!](https://events.zoom.us/ev/AvKPIaFGx9jwfTQyiDQcLmRWjmoDg4b4O20UQLssgTvlWDoXuMh5~AvDbrQHgBmJBUNpTBSMDUTQVfVen6k7w_xlMXZremUKDubDA3Q9AQ7-FRQ){.btn .btn-rai-mustard .btn-rai-lg role="button"}
+[See the program](program.qmd){.btn .btn-rai-mustard role="button"}
 
 ## KEYNOTE ADDRESSES
 
@@ -39,13 +37,11 @@ AI tools can generate a polished ggplot, scaffold a Quarto report, and debug a d
 
 [Read the full abstract and bio](Abstracts.qmd#mine-cetinkaya-rundel)
 
-[Register now to hear both keynotes!](https://events.zoom.us/ev/AvKPIaFGx9jwfTQyiDQcLmRWjmoDg4b4O20UQLssgTvlWDoXuMh5~AvDbrQHgBmJBUNpTBSMDUTQVfVen6k7w_xlMXZremUKDubDA3Q9AQ7-FRQ){.btn .btn-rai-mustard .btn-rai-lg role="button"}
+Talks were recorded and will be posted to the [R Consortium YouTube channel](https://www.youtube.com/@RConsortium).
 
 ## R + AI Community Needs Survey
 
-Where is the R community on AI today, and where is it headed? In September and October 2026, R Consortium conducted a short survey on tools, trust, reproducibility, and real-world workflows. The responses are helping shape R Consortium webinars, working groups, resources, and R+AI 2026 programming.
-
-Respondents who shared an email are getting early access to the results. The full report will be available online on the R Consortium website following R+AI 2026.
+Where is the R community on AI today, and where is it headed? In September and October 2026, ahead of R+AI 2026, R Consortium conducted a short survey on tools, trust, reproducibility, and real-world workflows. The responses are helping shape R Consortium webinars, working groups, resources, and R+AI programming.
 
 [Learn More](survey.qmd){.btn .btn-rai-mustard role="button"}
 
